@@ -1,0 +1,14 @@
+Executive Summary:
+Our analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.
+
+## Warranty Analytics
+**Detect quality issues early, reduce claim costs, and prevent recalls.**
+This solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.
+
+## Supply-Chain Risk Prediction
+**Monitor supplier health and logistics in real-time, and act before disruptions occur.**
+Our Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.
+
+## Dealer & Field Service Intelligence
+**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**
+This solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.
