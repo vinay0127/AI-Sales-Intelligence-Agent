@@ -1,0 +1,9 @@
+Demo execution complete. The following files/folders have been generated:
+- Input for this demo was 'Tata Motors | https://www.tatamotors.com/' and other default automotive companies if no input was provided.
+- JSON Output: /content/output/sales_agent_top.json
+- CSV Summary: /content/output/top_targets.csv
+- Market Research Report: /content/output/sales_agent_market_research_report.md
+- Individual Dossiers Directory: /content/research (contains .md files for each company)
+- Outreach Emails Directory: /content/outreach_emails (contains .md email templates)
+- Architecture Diagram: /content/architecture/architecture_diagram.png
+- README File: /content/README.md (updated with detailed usage and generated files sections)
