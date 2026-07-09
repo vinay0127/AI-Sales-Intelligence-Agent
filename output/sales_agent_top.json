@@ -1,1 +1,1458 @@
-
+[
+  {
+    "profile": {
+      "company": "Denso",
+      "website": "https://www.denso.com/",
+      "overview": "Reference #18.a30c0317.1783602062.b3d899b9 https://errors.edgesuite.net/18.a30c0317.1783602062.b3d899b9\nhttps://errors.edgesuite.net/18.a30c0317.1783602062.b3d899b9",
+      "sources": [
+        {
+          "type": "website",
+          "url": "https://www.denso.com/"
+        }
+      ],
+      "recent_news": [
+        {
+          "title": "Denso NHRA Sonoma Nationals set to deliver epic weekend - NHRA",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDlhQjhPT3pOQ1NpcVU5VF95eEpyTGhjcGVhWnNpRjdDM0swWHZvTm9ZTXBfX3JyTkVHNkJrZ19zU2Y4bW81YlBJNHpqeEg2V3JsOFgzbU1oSlFXTkQwdE9XQ0dZY21iaThnVFZ0OS1BdGczMExWLTdtYVNYVFdPaW5fNE1DUVlzMEUw?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 07:36:46 GMT",
+          "source": ""
+        },
+        {
+          "title": "GETTRX Pro Stock Motorcycle All-Star Callout Returns to DENSO NHRA Sonoma Nationals - Drag Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlBCek5GX0RHMnF2UFJTZDk5UF92LXp2c2dMbjhXSVRSeVZ4b1N5MnFXRkZWd25iN3pBcEsyejRFSjdBemFGdkt5WmxfUjhpQUVON25YY19udGsxWDU0MXJxaEJSbVRmMVVybnp6UUpFSmd0VlEyRlVxYnBfVzQ0dkc1VjBfaHdnSTZubjM3cHBiWUQ2R1pJaGlPOTJkdXVJY25DNWtEV0pzVG1jZkxVQ2R0dDU?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 15:52:41 GMT",
+          "source": ""
+        },
+        {
+          "title": "DENSO North America Foundation Awards Nearly $200,000 to Expand Hands-On Engineering Opportunities - Cal Poly Pomona",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT2RSa3c0SXJMTWlmZlEwZ0paU0E1ZFJobzIzU1JxeTVFSzZqMklpVnIzTWpQa29jN1N5T0JST3dVRWxLYTZpc0ZvN0ZnQTQ5ckd3U0pISVFOUGo1RGxfazRLVWY2aXVJYnJFWXg0R1dsSGJKZk1vZmg3OGs2SnN5LXdlZ1VIMXo4VWtkSUJlM2llUzlKOW5rQnlVZ2pPS0NCYlFET2dmZU40Q1pPU051QUdudjBvMUdxcXRYejN5UzNJek5yREFtd0FjenlaNnRzVGdCWlFuc19vUy0tTG1UNVdhWHA?oc=5",
+          "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "DENSO and FoodVentures Strengthen Collaboration through Capital Partnership in the Agricultural Sector - denso.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PYkppdWRqTGZhTFllNjZFOGNHXzJ4dV9mekhIN1NOSkpZXzdnU25WeG5fMDVoUEY4SnlfZUYyUDdGMW81Uy1yencwZVVsT0lrVmFuZ1BaY3pHMktXeGIwMmEwN0xTTlotZVF3YkJUcHJPUQ?oc=5",
+          "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "How A 50-Cent Part Triggered Toyota’s 3.3 Million-Vehicle Recall Nightmare - CarBuzz",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1odnVhSTVhblg1X3NBUEc1NkNfTHBKUnlIQVRVRFJUd0JzajJNOXJGUm9fUS0zRVJpdmozaUowREoyRTJiSEtRU1JVU0ZuMGRDbWoteUNTUTluRHRib21fZEhYVVJwbWVLYm9VUkxnRHpSbjNv?oc=5",
+          "publishedAt": "Sat, 04 Jul 2026 20:10:12 GMT",
+          "source": ""
+        },
+        {
+          "title": "Trick-Tools Racing Announces Partnership with Denso's PowerEdge for Remainder of 2026 NHRA Mission Foods Drag Racing Series Season - Drag Bike News",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZUd0bU5uazhvbmltem5IS09vWmd1bVJRMG1KemM4RzlTRFpoQi1wQW50QVZPWmVJTVpuZDdlWlZXbnhTdWpLcVU5YXRaNlNUbm1WMkI1WXdyTzlCS2pFS3hvMWtFNG1nejFuLVZsczd4V3dKRFBfLW1iLWVOamJZdXVUUFlERXpKdzZBdXA3dTVqem10enNEdDBwc28yUmJ5a05GZnFCOFFzTzVtdTNybWVVeXk5M0JXRUFSYlF0cFF1eGpjTTJXdVlETEprQ2FSdzFJay1RX1VEazFoN0lydW51cWtQZ3JNbnRV?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 19:06:08 GMT",
+          "source": ""
+        },
+        {
+          "title": "Brazil antitrust watchdog fines Denso $19.5 million over auto parts cartel - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0llVzI1dlBHMlhYeXlRbms0QkFCU05SYVhWTFd1NUxhTlRYb2ljdG9ZZWV4WHEzU1d4RUF5Qk53UHZhRUpQNnYzdEpNQ0lJSFppZVBlUGJrRmtBT0JPVFhwcFNRcE1zcHV5d0pWV1BFSmFMandFS0JjWS1zZkVEN1I2b0JOb3JVM0JoaUhZNXVMcVNrUjhLMzJqcU04WFNyclUxWHpZV2xhczh3TE01ZUd6MUdrdURJbjA1MXRCSmRHRFk?oc=5",
+          "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "DENSO Boosts Global Supply Chain Operations with Oracle Fusion Applications - Oracle",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3dVRHhxaUFqRG1DdS1MQzRBSUdIVXRLTmpGYUJScmNQTkRhR2NlVnozQVhYelZQZV9YSmNDMWh1R2VhNUpYdjRlVGhjTWlvMFVoMzhEQm9ZNVhhcnczLWZOTEtnWEJLRlZvZlpaajRuUGVHQzhHeW9OLWpkX0RzdElNam9KNGdTaHhhN0l1cS1iX21aalRpVVlmWnZQcXMzRlE?oc=5",
+          "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+          "source": ""
+        }
+      ]
+    },
+    "signals": {
+      "keyword_counts": {
+        "warranty": 1,
+        "supply_chain": 2,
+        "dealer": 0
+      },
+      "news_count": 8,
+      "latest_news_days": 1.7464740408957005,
+      "evidence_sources": [
+        {
+          "title": "Denso NHRA Sonoma Nationals set to deliver epic weekend - NHRA",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDlhQjhPT3pOQ1NpcVU5VF95eEpyTGhjcGVhWnNpRjdDM0swWHZvTm9ZTXBfX3JyTkVHNkJrZ19zU2Y4bW81YlBJNHpqeEg2V3JsOFgzbU1oSlFXTkQwdE9XQ0dZY21iaThnVFZ0OS1BdGczMExWLTdtYVNYVFdPaW5fNE1DUVlzMEUw?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 06 Jul 2026 07:36:46 GMT"
+        },
+        {
+          "title": "GETTRX Pro Stock Motorcycle All-Star Callout Returns to DENSO NHRA Sonoma Nationals - Drag Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlBCek5GX0RHMnF2UFJTZDk5UF92LXp2c2dMbjhXSVRSeVZ4b1N5MnFXRkZWd25iN3pBcEsyejRFSjdBemFGdkt5WmxfUjhpQUVON25YY19udGsxWDU0MXJxaEJSbVRmMVVybnp6UUpFSmd0VlEyRlVxYnBfVzQ0dkc1VjBfaHdnSTZubjM3cHBiWUQ2R1pJaGlPOTJkdXVJY25DNWtEV0pzVG1jZkxVQ2R0dDU?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 15:52:41 GMT"
+        },
+        {
+          "title": "DENSO North America Foundation Awards Nearly $200,000 to Expand Hands-On Engineering Opportunities - Cal Poly Pomona",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT2RSa3c0SXJMTWlmZlEwZ0paU0E1ZFJobzIzU1JxeTVFSzZqMklpVnIzTWpQa29jN1N5T0JST3dVRWxLYTZpc0ZvN0ZnQTQ5ckd3U0pISVFOUGo1RGxfazRLVWY2aXVJYnJFWXg0R1dsSGJKZk1vZmg3OGs2SnN5LXdlZ1VIMXo4VWtkSUJlM2llUzlKOW5rQnlVZ2pPS0NCYlFET2dmZU40Q1pPU051QUdudjBvMUdxcXRYejN5UzNJek5yREFtd0FjenlaNnRzVGdCWlFuc19vUy0tTG1UNVdhWHA?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "DENSO and FoodVentures Strengthen Collaboration through Capital Partnership in the Agricultural Sector - denso.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PYkppdWRqTGZhTFllNjZFOGNHXzJ4dV9mekhIN1NOSkpZXzdnU25WeG5fMDVoUEY4SnlfZUYyUDdGMW81Uy1yencwZVVsT0lrVmFuZ1BaY3pHMktXeGIwMmEwN0xTTlotZVF3YkJUcHJPUQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "How A 50-Cent Part Triggered Toyota’s 3.3 Million-Vehicle Recall Nightmare - CarBuzz",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1odnVhSTVhblg1X3NBUEc1NkNfTHBKUnlIQVRVRFJUd0JzajJNOXJGUm9fUS0zRVJpdmozaUowREoyRTJiSEtRU1JVU0ZuMGRDbWoteUNTUTluRHRib21fZEhYVVJwbWVLYm9VUkxnRHpSbjNv?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Sat, 04 Jul 2026 20:10:12 GMT"
+        },
+        {
+          "title": "Trick-Tools Racing Announces Partnership with Denso's PowerEdge for Remainder of 2026 NHRA Mission Foods Drag Racing Series Season - Drag Bike News",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZUd0bU5uazhvbmltem5IS09vWmd1bVJRMG1KemM4RzlTRFpoQi1wQW50QVZPWmVJTVpuZDdlWlZXbnhTdWpLcVU5YXRaNlNUbm1WMkI1WXdyTzlCS2pFS3hvMWtFNG1nejFuLVZsczd4V3dKRFBfLW1iLWVOamJZdXVUUFlERXpKdzZBdXA3dTVqem10enNEdDBwc28yUmJ5a05GZnFCOFFzTzVtdTNybWVVeXk5M0JXRUFSYlF0cFF1eGpjTTJXdVlETEprQ2FSdzFJay1RX1VEazFoN0lydW51cWtQZ3JNbnRV?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 19:06:08 GMT"
+        },
+        {
+          "title": "Brazil antitrust watchdog fines Denso $19.5 million over auto parts cartel - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0llVzI1dlBHMlhYeXlRbms0QkFCU05SYVhWTFd1NUxhTlRYb2ljdG9ZZWV4WHEzU1d4RUF5Qk53UHZhRUpQNnYzdEpNQ0lJSFppZVBlUGJrRmtBT0JPVFhwcFNRcE1zcHV5d0pWV1BFSmFMandFS0JjWS1zZkVEN1I2b0JOb3JVM0JoaUhZNXVMcVNrUjhLMzJqcU04WFNyclUxWHpZV2xhczh3TE01ZUd6MUdrdURJbjA1MXRCSmRHRFk?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "DENSO Boosts Global Supply Chain Operations with Oracle Fusion Applications - Oracle",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3dVRHhxaUFqRG1DdS1MQzRBSUdIVXRLTmpGYUJScmNQTkRhR2NlVnozQVhYelZQZV9YSmNDMWh1R2VhNUpYdjRlVGhjTWlvMFVoMzhEQm9ZNVhhcnczLWZOTEtnWEJLRlZvZlpaajRuUGVHQzhHeW9OLWpkX0RzdElNam9KNGdTaHhhN0l1cS1iX21aalRpVVlmWnZQcXMzRlE?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "handbook_fit": {
+      "Warranty Analytics": 0.044720642268657684,
+      "Supply-Chain Risk Prediction": -0.07674252986907959,
+      "Dealer & Field Service Intelligence": 0.014071622863411903
+    },
+    "mapping": {
+      "service": "Dealer & Field Service Intelligence",
+      "justification": "Default recommendation.",
+      "evidence": []
+    },
+    "retrieved_passages": [
+      {
+        "id": 0,
+        "score": 0.005197262391448021,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      }
+    ],
+    "score_breakdown": {
+      "signal_strength": 1.0,
+      "recency": 0.981,
+      "handbook_fit": 0.045,
+      "evidence_quality": 0.0,
+      "weights": {
+        "signal": 0.35,
+        "recency": 0.25,
+        "handbook_fit": 0.25,
+        "evidence": 0.15
+      },
+      "final_score": 60.64
+    }
+  },
+  {
+    "profile": {
+      "company": "Bosch",
+      "website": "https://www.bosch.com/",
+      "overview": "Industry and trades\nDiscover our products and services for industry and\n \ntrades",
+      "sources": [
+        {
+          "type": "website",
+          "url": "https://www.bosch.com/"
+        }
+      ],
+      "recent_news": [
+        {
+          "title": "Why the Bosch Injection Pump Remains the Gold Standard in Diesel Fuel Delivery The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fa - The Hype Magazine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUVjdG40eHgwNjZuc1M0NmE0N0ZMN2pjUDdibTBHMENMekJoeTY2aEZPQXVuVV83Y2R5VE9UemxsTXJlOGF5YWV5b2tCaXZVbXZMS09wX1JZbHV4a213M2laWUFKaTA2SWlGRUN5QWhlVW13Ti1JNlZyWHFob3NtN3NYWWMtbVczRVJZamNCejJickNybWZVTWN0ejVTR0hWLUpCbU44SGRhbFVVRHBiZDNHd0ExVkE0RWRuWlV2MA?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 06:44:53 GMT",
+          "source": ""
+        },
+        {
+          "title": "Gallery of Studio Boot / Piet Hein Eek + Hilberink Bosch Architecten - 3 - ArchDaily",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDN0V0N2VlpXdmtBdVlfMXNTQVRBTWRkRW5sNGZuZlMxYWJHQVoydFZlNGt6Nk5QTGhoN2xiTWJQZHNUMllRVkJKN00yMVd5Z0h5R2NVVDY0N3NiRkgybzE0dmtiUzVxT2c1SVVDeENoTUNPSmZub3pheWpKeXZMbTdVay13OFNtWDlXX09SdFp0eW04WUtxUGFnNkFEVHpoeV9pM1pSZnNfbW1PTGpPWExkUy1MOU9uaHc?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 02:29:43 GMT",
+          "source": ""
+        },
+        {
+          "title": "Robotics: How Bosch is leading the way - Bosch Global",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vYVJRVVl3TmxGWkJ6VXJDZENTZDR4aUZGN29LLVZ1VXNtTUQ5TUpOanpacnkxeFZkaDBwTzZ1QWZwMV9SZTFsVE9wdmJaYXNhelNwZ2xDS05NVEUwVEdKMnJGQXZTOUJHR0JzOQ?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 12:52:23 GMT",
+          "source": ""
+        },
+        {
+          "title": "Spring all year at Bosch Berries - Kentucky Living",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CX3pkWUtZUnVldy11STI3QWlmQWk0RGpjZ1NmeEVnby11R2piZm9GT203Z00wMmx0UWtaZXhIOWJGZi14eEMyZm9UUk9tR1ZpLW42Um01Y2NZVjRsQVF3Rmk4ejliM0ZGZS1wSHg2NWJYbU9KSVdoRnB3?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 17:53:54 GMT",
+          "source": ""
+        },
+        {
+          "title": "Bosch CEO steps down - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVdLWmJIeklGNUhGQlpfd2dwYkFEOHJId3NYeGNiUDRyNVpCOWItdk04VUZjNmJ3NDJzZy1tRzRkOHVhbVlic2lGY1RXQy1KaHJ5ODIwbTZRYXMwRFBWajc3VkpmSDlFVFJicEZ3aDJxSVROaG43cS1lSWdkaXVyQmRzWnllNEtOUm9QaUdB?oc=5",
+          "publishedAt": "Tue, 30 Jun 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Volkswagen plans to end automated driving tie-up with Bosch, Bild reports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQmJhYTBIS0NHSi1USGFWYWg3aGR6ZmJ4ZnVON29qdTBfam5VT05IbkdCRlJwQl9aMXRKZGpBV1VDdU5jWUMzXzBlVHVNMEZ5UDBSbzcyMXVSMEdUVGNMX2UxeUNWbEJmSHMwU3FhRXFscXk4dmN2X3lsdllhUkJJWXRURFhKaEtHamtnTGl1aG9JUy1EUkwySy1zRE5Od0VYRzFjSWJzQUxERlRvN1A2NW5ybks0c0NmaGVPbUZZRjI5NnA3WUtpOWVWYy1lNC15?oc=5",
+          "publishedAt": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Bosch Launches Public Road Testing for Advanced Intelligent Driving Solution in Japan - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbW0zRXFVVTRxUW9NWU5mMkxkbGhjV2VQdTUxWmxJVlRHblc3MG0wVFVqbXNpZENVQmUxV1Q3TVVfcWJuQ1FJUDBRRUpLc1RZcW9fR1NXOUZhRUdtcU5yN05Ja2ZHZE1VOFBKS1E2OURFODZoaDJ5d1VFNEFESEliM3ZROFZjMVluQVBnTTdpWWZHNnR2dWZYaldJMHlrYVFJMURNYWJiazk5NUR6RnFneEUtVFJjdDFzdEZCd3JxQjNabjFvRV9OS3JvS0hSUnpQaW5Ydlpxd2FKZndGOVVoLQ?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 08:02:20 GMT",
+          "source": ""
+        },
+        {
+          "title": "DOJ NSD Issues First CEP Declination: Key Lessons from the Bosch Export Controls Case - Crowell & Moring LLP",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU3Fhd05sb1kwUzg3Z1JxczBXQ0dpMkhHT2hCQnU5RlRMTm1idTM4T0JZU28wOWhUemtTVl9aaERqem9fbWc1UjdwZjFWTGRyd2JPNzI3aGJLUVNUNWxSc1Q3UFVFWXBnZE9QTVlBMjNiX1dpUnR3WnM4WmtuOS04cVl5bDhNODVqQVo3T3dnZWotQ1JOelhkZUJlSXNMYWhTWHhOZGpZTGt4RUU3azRtX0xGVHlsUnFScXVtY1RCb3lxaFZMX1ZfdjItNGU1Q3JfMjd6akpfbU5scEJaX2p5VGtWS1RCRkdBdVlPUGE1VkNPYkVQOGtHOTZwZFhwRVpDeThMLTNFVks?oc=5",
+          "publishedAt": "Wed, 24 Jun 2026 14:13:03 GMT",
+          "source": ""
+        }
+      ]
+    },
+    "signals": {
+      "keyword_counts": {
+        "warranty": 0,
+        "supply_chain": 2,
+        "dealer": 0
+      },
+      "news_count": 8,
+      "latest_news_days": 0.2598919266048405,
+      "evidence_sources": [
+        {
+          "title": "Why the Bosch Injection Pump Remains the Gold Standard in Diesel Fuel Delivery The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fa - The Hype Magazine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUVjdG40eHgwNjZuc1M0NmE0N0ZMN2pjUDdibTBHMENMekJoeTY2aEZPQXVuVV83Y2R5VE9UemxsTXJlOGF5YWV5b2tCaXZVbXZMS09wX1JZbHV4a213M2laWUFKaTA2SWlGRUN5QWhlVW13Ti1JNlZyWHFob3NtN3NYWWMtbVczRVJZamNCejJickNybWZVTWN0ejVTR0hWLUpCbU44SGRhbFVVRHBiZDNHd0ExVkE0RWRuWlV2MA?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 06:44:53 GMT"
+        },
+        {
+          "title": "Gallery of Studio Boot / Piet Hein Eek + Hilberink Bosch Architecten - 3 - ArchDaily",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDN0V0N2VlpXdmtBdVlfMXNTQVRBTWRkRW5sNGZuZlMxYWJHQVoydFZlNGt6Nk5QTGhoN2xiTWJQZHNUMllRVkJKN00yMVd5Z0h5R2NVVDY0N3NiRkgybzE0dmtiUzVxT2c1SVVDeENoTUNPSmZub3pheWpKeXZMbTdVay13OFNtWDlXX09SdFp0eW04WUtxUGFnNkFEVHpoeV9pM1pSZnNfbW1PTGpPWExkUy1MOU9uaHc?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 02:29:43 GMT"
+        },
+        {
+          "title": "Robotics: How Bosch is leading the way - Bosch Global",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vYVJRVVl3TmxGWkJ6VXJDZENTZDR4aUZGN29LLVZ1VXNtTUQ5TUpOanpacnkxeFZkaDBwTzZ1QWZwMV9SZTFsVE9wdmJaYXNhelNwZ2xDS05NVEUwVEdKMnJGQXZTOUJHR0JzOQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 12:52:23 GMT"
+        },
+        {
+          "title": "Spring all year at Bosch Berries - Kentucky Living",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CX3pkWUtZUnVldy11STI3QWlmQWk0RGpjZ1NmeEVnby11R2piZm9GT203Z00wMmx0UWtaZXhIOWJGZi14eEMyZm9UUk9tR1ZpLW42Um01Y2NZVjRsQVF3Rmk4ejliM0ZGZS1wSHg2NWJYbU9KSVdoRnB3?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 17:53:54 GMT"
+        },
+        {
+          "title": "Bosch CEO steps down - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVdLWmJIeklGNUhGQlpfd2dwYkFEOHJId3NYeGNiUDRyNVpCOWItdk04VUZjNmJ3NDJzZy1tRzRkOHVhbVlic2lGY1RXQy1KaHJ5ODIwbTZRYXMwRFBWajc3VkpmSDlFVFJicEZ3aDJxSVROaG43cS1lSWdkaXVyQmRzWnllNEtOUm9QaUdB?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 30 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Volkswagen plans to end automated driving tie-up with Bosch, Bild reports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQmJhYTBIS0NHSi1USGFWYWg3aGR6ZmJ4ZnVON29qdTBfam5VT05IbkdCRlJwQl9aMXRKZGpBV1VDdU5jWUMzXzBlVHVNMEZ5UDBSbzcyMXVSMEdUVGNMX2UxeUNWbEJmSHMwU3FhRXFscXk4dmN2X3lsdllhUkJJWXRURFhKaEtHamtnTGl1aG9JUy1EUkwySy1zRE5Od0VYRzFjSWJzQUxERlRvN1A2NW5ybks0c0NmaGVPbUZZRjI5NnA3WUtpOWVWYy1lNC15?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Sun, 28 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Bosch Launches Public Road Testing for Advanced Intelligent Driving Solution in Japan - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbW0zRXFVVTRxUW9NWU5mMkxkbGhjV2VQdTUxWmxJVlRHblc3MG0wVFVqbXNpZENVQmUxV1Q3TVVfcWJuQ1FJUDBRRUpLc1RZcW9fR1NXOUZhRUdtcU5yN05Ja2ZHZE1VOFBKS1E2OURFODZoaDJ5d1VFNEFESEliM3ZROFZjMVluQVBnTTdpWWZHNnR2dWZYaldJMHlrYVFJMURNYWJiazk5NUR6RnFneEUtVFJjdDFzdEZCd3JxQjNabjFvRV9OS3JvS0hSUnpQaW5Ydlpxd2FKZndGOVVoLQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 06 Jul 2026 08:02:20 GMT"
+        },
+        {
+          "title": "DOJ NSD Issues First CEP Declination: Key Lessons from the Bosch Export Controls Case - Crowell & Moring LLP",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU3Fhd05sb1kwUzg3Z1JxczBXQ0dpMkhHT2hCQnU5RlRMTm1idTM4T0JZU28wOWhUemtTVl9aaERqem9fbWc1UjdwZjFWTGRyd2JPNzI3aGJLUVNUNWxSc1Q3UFVFWXBnZE9QTVlBMjNiX1dpUnR3WnM4WmtuOS04cVl5bDhNODVqQVo3T3dnZWotQ1JOelhkZUJlSXNMYWhTWHhOZGpZTGt4RUU3azRtX0xGVHlsUnFScXVtY1RCb3lxaFZMX1ZfdjItNGU1Q3JfMjd6akpfbU5scEJaX2p5VGtWS1RCRkdBdVlPUGE1VkNPYkVQOGtHOTZwZFhwRVpDeThMLTNFVks?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 24 Jun 2026 14:13:03 GMT"
+        }
+      ]
+    },
+    "handbook_fit": {
+      "Warranty Analytics": 0.26723769307136536,
+      "Supply-Chain Risk Prediction": 0.2896254062652588,
+      "Dealer & Field Service Intelligence": 0.4800567030906677
+    },
+    "mapping": {
+      "service": "Dealer & Field Service Intelligence",
+      "justification": "Default recommendation.",
+      "evidence": []
+    },
+    "retrieved_passages": [
+      {
+        "id": 0,
+        "score": 0.40088433027267456,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      }
+    ],
+    "score_breakdown": {
+      "signal_strength": 0.667,
+      "recency": 0.997,
+      "handbook_fit": 0.48,
+      "evidence_quality": 0.0,
+      "weights": {
+        "signal": 0.35,
+        "recency": 0.25,
+        "handbook_fit": 0.25,
+        "evidence": 0.15
+      },
+      "final_score": 60.26
+    }
+  },
+  {
+    "profile": {
+      "company": "Magna International",
+      "website": "https://www.magna.com/",
+      "overview": "Magna is one of the world’s largest automotive suppliers and a trusted partner to automakers in the industry’s most critical markets—North America, Europe, and China. With a global team and footprint spanning 28 countries, we bring unmatched scale, trusted reliability, and proven execution. Backed by nearly seven decades of experience, we combine deep manufacturing expertise with innovative vehicle systems to deliver performance, safety, and quality.",
+      "sources": [
+        {
+          "type": "website",
+          "url": "https://www.magna.com/"
+        }
+      ],
+      "recent_news": [
+        {
+          "title": "Magna International Inc. stock falls Wednesday, underperforms market - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlNUU0kyZ2p1dzlsY21vQ19Kdk1FNjlmU0F0eXhvMFR2Vnlmdm5sN3NPc01SNU9ySjJNaDhOOU5rcEZOZGl3Ym50UFVoeEhyU01VUjRVajZDRUZjZjVTX1BuN2ZrQVZHTnR3T3pTamtCalprdnBlS2VrUDJxbUh6S29UQTJhcmxBeFQ1RTBWcUxYdVc2SG5XbkJlcVZRRGh3SkdzbGwwZ3VtakNWQVg1X3RBYU94aUU2V19jek1rVUp5LTBrRzE2X3ZmVWhvTVJtOFU5NFczVFVVMUpv?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 20:33:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Is Magna International (MGA) Stock Undervalued Right Now? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMElEMUk1ckp2XzBJQ3VKYnJvcm1fRTNtenhSdEczTXhWU0JOZHRJODNHYzFNWURjZDU4ekx6c3RkTTJFeTlLXzRuLUZuaXR5LXZ2b2I1d3ZGR1JmSk9kSEJVTVc2OHhvM1RqNUpsVDZMRDdGMExBUkVjcF9PUHhWSTBFVjBMbDRRc1YzYjF2Unl6ekFUR3lPY0R5akYzbTRQdWZTa2FNdkhYQQ?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 13:40:02 GMT",
+          "source": ""
+        },
+        {
+          "title": "Did Magna International's Q4 2025 Earnings Signal a Turning Point - Kavout | AI",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjVXTjRab29VbUVuazQ5SGtneWVzZjBKdmg3M3BldDBOOHk5Ynk0YzFXRktDbXNIamUxd0FaWXhveVY5MTRfMmFrYk5nTFdpWmJQd0xNYldhUVhaeENOa1locDBuWWZDckY0d1FsLVhrWGhrb0pkcEpNVkN6ZWQ5R0NrLUFpMkN4ekVkMG5pSFBVUnJENUNnaEd3U1JXNVpOVnc?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 16:35:34 GMT",
+          "source": ""
+        },
+        {
+          "title": "Magna International Inc (MGA) Shares Surge 4.8% -- What GF Score of 77 Tells Investors - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNcHpDc256NjdQMUlXbmRSQkRUOERBeXcxWWZMVjBzWHRMMWFhMzVCT2Z5X2JBTTRFSk1RZXB2dUtJZ1dHMEc1bERTT3FJcmdyNl8yYnpRTDJ6UU5iejVLbmlhTVh2OGp1NEJJd0ZuYjJTMlBWbXI4RnZYdUJUVG1wVUV3RXVTQ2tqcHoxMExEU1p1Q0NmWW9FOTB0V3lGTmxlbEUtWVlyN0hEX1lkS2lnenZWNWJSbzBTcEFPZzVnOUJHNlBWd2o5X0NFR0ctOUlFMXBld0pzNDFwQXhJc1pjc2dDUnh3T0FNNEd0b291T29wbWJsM0dYUGpUcHhZTG15VGJuVjhxSnZ2NnV3UDVlREMzNXZEMXpZNGU3LXpMRENWdkJtd3pLOC03eW5fcEh2aGc1QUxFVGtTMnpUcFExOXJIRnpvdWh6c0wyZDc1OUFfTXdRU1pfU1J5WDcwQnc?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 22:39:37 GMT",
+          "source": ""
+        },
+        {
+          "title": "Frank Stronach, Magna International Founder, Is Found Guilty in Sex-Crimes Case - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFQ5cU1ubmJPT19PeW1HQk0tb3RsT2d5ZjBRNThKNWd1MlVQSjVaVlEwRmVxOFVkRjkzUG8tU2hhR0ltMlFJdUJqX2l2QW0zSDFJVkJMSVI2ZGtJb3l2WFdYNC1IdkFETV9RVVY3NzFLRFRuWFFwX0xaQXJkUnRLbzVfZkJsazZkVmNKcUhzT21qTmhSRjBzU19IRVh1MUZjdkdhZnAzYWZjQXpsaGxmV0V4Nzd4M1NKZGl1RHVB?oc=5",
+          "publishedAt": "Fri, 19 Jun 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Magna International Inc. stock falls Tuesday, underperforms market - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjJGR2VHWmVDdDRvd1l2bFVhLWR2S3NOQWp5c0EtRkdGMFlxTG9raXd2bFBmWFlvUDhWaGZTbU84QlJfLXRNVlhPOXZ3UENpRUw4YkZEaURjWVdpU3kxTzYwekRsNWJMZk5CVHVIclNpRzVUWTRncW1EYzBVZkFvUTVwMlVRMWJTT1N2SWZhX19CZndUYmJNMnYzaGRyVy1Odm1tR01HVzVlMVY2VVNuUUlJbndieWFmdE5fdzBhUzk0Zw?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 20:33:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Magna International (NYSE:MGA) Offers a Textbook Value Play with a Strong Margin of Safety - ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS3ZKa293NGF1ZzNnUkE5VUFqX2VFMjdRSTVKSy01aEM5WWZERGVVMkVKRjBiLVItUVE2NkRKU0ttLTlsNFFSeHMxM1pnX3c5WElWcjVvdmFzZ0N0OXdmTS00anVEcHpEbVI1SG1OMzFDdzRlRU91MnpERHRuSGxRWVlxdDFaZXp1QXR6QVNKd3JPSThINlB6bFFId0xBZ1ptZU9idmZXQUR6VWxlQ3NRdjRuaXhiSnV2NXpsOFhhRXJVVUt3SVVXWDZIT3Y5ek9vX3NoQw?oc=5",
+          "publishedAt": "Sat, 13 Jun 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Magna Announces Sale of its Lighting and Rooftop Systems Businesses - Magna International",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGFqQ2V1ajU1eDUtU2NIbk1wdXpIOEVVXzd2NkV1Q2tnMW9yOWZUNndGR29XS3pFOC1EX09meGNWLTdMem4tT3dhbGQxaE9BaTFsN2xnXzlrbFZpWlowcGhMandHSVhpYzg5Yi01anZDeGMycHRmMXI3R29MMXVpaWx4T004S1BLX2ZjaGFuRXZUQmJHQVRkSFlMUU9mVEJGNk9XaWhVNzNHZnlDbDFHTnVpeWN5UzdRNjJCXzRR?oc=5",
+          "publishedAt": "Thu, 09 Apr 2026 07:00:00 GMT",
+          "source": ""
+        }
+      ]
+    },
+    "signals": {
+      "keyword_counts": {
+        "warranty": 0,
+        "supply_chain": 1,
+        "dealer": 0
+      },
+      "news_count": 8,
+      "latest_news_days": 0.6857564624316163,
+      "evidence_sources": [
+        {
+          "title": "Magna International Inc. stock falls Wednesday, underperforms market - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlNUU0kyZ2p1dzlsY21vQ19Kdk1FNjlmU0F0eXhvMFR2Vnlmdm5sN3NPc01SNU9ySjJNaDhOOU5rcEZOZGl3Ym50UFVoeEhyU01VUjRVajZDRUZjZjVTX1BuN2ZrQVZHTnR3T3pTamtCalprdnBlS2VrUDJxbUh6S29UQTJhcmxBeFQ1RTBWcUxYdVc2SG5XbkJlcVZRRGh3SkdzbGwwZ3VtakNWQVg1X3RBYU94aUU2V19jek1rVUp5LTBrRzE2X3ZmVWhvTVJtOFU5NFczVFVVMUpv?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 20:33:00 GMT"
+        },
+        {
+          "title": "Is Magna International (MGA) Stock Undervalued Right Now? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMElEMUk1ckp2XzBJQ3VKYnJvcm1fRTNtenhSdEczTXhWU0JOZHRJODNHYzFNWURjZDU4ekx6c3RkTTJFeTlLXzRuLUZuaXR5LXZ2b2I1d3ZGR1JmSk9kSEJVTVc2OHhvM1RqNUpsVDZMRDdGMExBUkVjcF9PUHhWSTBFVjBMbDRRc1YzYjF2Unl6ekFUR3lPY0R5akYzbTRQdWZTa2FNdkhYQQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 13:40:02 GMT"
+        },
+        {
+          "title": "Did Magna International's Q4 2025 Earnings Signal a Turning Point - Kavout | AI",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjVXTjRab29VbUVuazQ5SGtneWVzZjBKdmg3M3BldDBOOHk5Ynk0YzFXRktDbXNIamUxd0FaWXhveVY5MTRfMmFrYk5nTFdpWmJQd0xNYldhUVhaeENOa1locDBuWWZDckY0d1FsLVhrWGhrb0pkcEpNVkN6ZWQ5R0NrLUFpMkN4ekVkMG5pSFBVUnJENUNnaEd3U1JXNVpOVnc?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 06 Jul 2026 16:35:34 GMT"
+        },
+        {
+          "title": "Magna International Inc (MGA) Shares Surge 4.8% -- What GF Score of 77 Tells Investors - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNcHpDc256NjdQMUlXbmRSQkRUOERBeXcxWWZMVjBzWHRMMWFhMzVCT2Z5X2JBTTRFSk1RZXB2dUtJZ1dHMEc1bERTT3FJcmdyNl8yYnpRTDJ6UU5iejVLbmlhTVh2OGp1NEJJd0ZuYjJTMlBWbXI4RnZYdUJUVG1wVUV3RXVTQ2tqcHoxMExEU1p1Q0NmWW9FOTB0V3lGTmxlbEUtWVlyN0hEX1lkS2lnenZWNWJSbzBTcEFPZzVnOUJHNlBWd2o5X0NFR0ctOUlFMXBld0pzNDFwQXhJc1pjc2dDUnh3T0FNNEd0b291T29wbWJsM0dYUGpUcHhZTG15VGJuVjhxSnZ2NnV3UDVlREMzNXZEMXpZNGU3LXpMRENWdkJtd3pLOC03eW5fcEh2aGc1QUxFVGtTMnpUcFExOXJIRnpvdWh6c0wyZDc1OUFfTXdRU1pfU1J5WDcwQnc?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 06 Jul 2026 22:39:37 GMT"
+        },
+        {
+          "title": "Frank Stronach, Magna International Founder, Is Found Guilty in Sex-Crimes Case - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFQ5cU1ubmJPT19PeW1HQk0tb3RsT2d5ZjBRNThKNWd1MlVQSjVaVlEwRmVxOFVkRjkzUG8tU2hhR0ltMlFJdUJqX2l2QW0zSDFJVkJMSVI2ZGtJb3l2WFdYNC1IdkFETV9RVVY3NzFLRFRuWFFwX0xaQXJkUnRLbzVfZkJsazZkVmNKcUhzT21qTmhSRjBzU19IRVh1MUZjdkdhZnAzYWZjQXpsaGxmV0V4Nzd4M1NKZGl1RHVB?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Fri, 19 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Magna International Inc. stock falls Tuesday, underperforms market - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjJGR2VHWmVDdDRvd1l2bFVhLWR2S3NOQWp5c0EtRkdGMFlxTG9raXd2bFBmWFlvUDhWaGZTbU84QlJfLXRNVlhPOXZ3UENpRUw4YkZEaURjWVdpU3kxTzYwekRsNWJMZk5CVHVIclNpRzVUWTRncW1EYzBVZkFvUTVwMlVRMWJTT1N2SWZhX19CZndUYmJNMnYzaGRyVy1Odm1tR01HVzVlMVY2VVNuUUlJbndieWFmdE5fdzBhUzk0Zw?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 20:33:00 GMT"
+        },
+        {
+          "title": "Magna International (NYSE:MGA) Offers a Textbook Value Play with a Strong Margin of Safety - ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS3ZKa293NGF1ZzNnUkE5VUFqX2VFMjdRSTVKSy01aEM5WWZERGVVMkVKRjBiLVItUVE2NkRKU0ttLTlsNFFSeHMxM1pnX3c5WElWcjVvdmFzZ0N0OXdmTS00anVEcHpEbVI1SG1OMzFDdzRlRU91MnpERHRuSGxRWVlxdDFaZXp1QXR6QVNKd3JPSThINlB6bFFId0xBZ1ptZU9idmZXQUR6VWxlQ3NRdjRuaXhiSnV2NXpsOFhhRXJVVUt3SVVXWDZIT3Y5ek9vX3NoQw?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Sat, 13 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Magna Announces Sale of its Lighting and Rooftop Systems Businesses - Magna International",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGFqQ2V1ajU1eDUtU2NIbk1wdXpIOEVVXzd2NkV1Q2tnMW9yOWZUNndGR29XS3pFOC1EX09meGNWLTdMem4tT3dhbGQxaE9BaTFsN2xnXzlrbFZpWlowcGhMandHSVhpYzg5Yi01anZDeGMycHRmMXI3R29MMXVpaWx4T004S1BLX2ZjaGFuRXZUQmJHQVRkSFlMUU9mVEJGNk9XaWhVNzNHZnlDbDFHTnVpeWN5UzdRNjJCXzRR?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Apr 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "handbook_fit": {
+      "Warranty Analytics": 0.25815802812576294,
+      "Supply-Chain Risk Prediction": 0.254323810338974,
+      "Dealer & Field Service Intelligence": 0.31801486015319824
+    },
+    "mapping": {
+      "service": "Supply-Chain Risk Prediction",
+      "justification": "Heuristic: supply chain signals found.",
+      "evidence": []
+    },
+    "retrieved_passages": [
+      {
+        "id": 0,
+        "score": 0.3803279995918274,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      }
+    ],
+    "score_breakdown": {
+      "signal_strength": 0.333,
+      "recency": 0.992,
+      "handbook_fit": 0.318,
+      "evidence_quality": 0.0,
+      "weights": {
+        "signal": 0.35,
+        "recency": 0.25,
+        "handbook_fit": 0.25,
+        "evidence": 0.15
+      },
+      "final_score": 44.43
+    }
+  },
+  {
+    "profile": {
+      "company": "Toyota",
+      "website": "https://global.toyota/",
+      "overview": "",
+      "sources": [
+        {
+          "type": "website",
+          "url": "https://global.toyota/"
+        }
+      ],
+      "recent_news": [
+        {
+          "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kZFFKSW85eVdjX0lJNmp5bDJNVmk4eDRnWTdLSS1MQk1PUW4teUxHSi1GVDUxTURkLVJoMzJidjBUeUNSc1RGaFdWcnh5cmNWeFl2RHE4QzVaVGxDaEtMNXotakRRUk54WVRGVjFscm9uZXJBQ2VFV3NnMzdXT2_SAYQBQVVfeXFMT3EyMGhPZjh1SXI4a1hSOFQwNXZhd180NlFpVFN1WlgtRmtFc0NDWTNvSl91N3lQX0Y0N3o3cjJ4c3oyUEpvZmNJaHVVYUtqa2ZaWXZseHVEVHdMbEVpS0JaX2VJRGF5eFE2R2txMHhLNnNLZ1RpT2pfOEtielBVc3JxVUxT?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 20:30:01 GMT",
+          "source": ""
+        },
+        {
+          "title": "Car Review: Toyota redesigns the RAV4 Hybrid with more power, rugged look - WTOP",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDJtQ3ZCMUIyLWpidVFhaWlGVDZIellzV0JEWDVCYWZ6VGZLdG5VbEozUE1EZEV2aFM1dmNmQi0tVFpTLXVYS0FpeFpYYmpld05DQ2ZLQlJyS2VBZERsQk13LTZxRVcwLUdCbW9uNF8xQV9UVWtiZmYtd3hMNXNCQnk5ZkxDcG1reEhLeFdoZEtMV1gxVVB1bzZFSzJDY3lDUUZxQlUxOG82R2dsSHc?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 09:53:04 GMT",
+          "source": ""
+        },
+        {
+          "title": "Toyota Delays 2027 Highlander EV; Current Gas and Hybrid Versions Will Stay in Production - Cars.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2tselhGbE5iV1N0bFRxOUVELTg1RDlMMDltRHhSbjZmOUtUSWw1aGN2ZE1oYzFnS1JrcC1pWjdaSlhXRFotaHJCVEFRWlN5VlRhdHREQW5HUmd5WFZ6N2ViREVzeXQzbG9Sc2VFUEFzUVNaMkNzNEZDekRQSk8tNVJfakNRSnBhTVBuTEdnbVN6R18zUnd5NE9lV3hzbHQ4U3FENTN0X21EUHd5bnE0U2pCc3RJSlpvTmU1WlBmMjVibUJS?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 16:01:05 GMT",
+          "source": ""
+        },
+        {
+          "title": "Toyota’s reaction to Tänak’s first Yaris appearance since 2019 - DirtFish",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzZvc1JreVJUSld5emg5SzlZN1pMemRuTmw4U2YzTFVoMVBXYk53eUV0b1BDdGhRampQd3U1SUszdUk1N1JWRnk4bjNRRm1ZakttTEV0QTBBdUxMeXJDR0gySlFnV2YtU3VRNEVVdHQwRnBZcS1ONW1mZFg2WjZqdmM5M3dCaGJXYkk0eVV4ejlNZGJEeXg0?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 08:05:48 GMT",
+          "source": ""
+        },
+        {
+          "title": "Rumor Claims The Toyota Previa Is Coming Back As A \"Driver Oriented\" Minivan - thetruthaboutcars.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWVhUl8zLXEyMmtGRnJrU2FUYl85WVQta041X1F4NF9TQ2VkZmxvdW5GRzg1d3RydExIQ0J0SHpaRURlOFEwUGZFcHVIRmlEb0dqYk5ldHBfNE9fenVnZGotNWpTd0lzRUFKbDZQLUhvM2xGWmdiUncwbi1lTEU0dXdBYmQ2WXEzMEFwbXVCUGVJMHh0Y0EyX08yN1Uwd09ic1NBWUExdXlqUkxDNWxtNDZLY2NMdnRmeGJyRHhxMWdUY3NSa2tkZjJ0a28?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 17:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Trademark Indicates Toyota Wants To Offer A More Athletic Camry - Autoguide.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0VXT2JEcWdQZjhBLV85X2dNM0dDVjh0bXMtQ3FlWUhoN3NkODdkcmVlcEU3bXI0eHNKaE1kSENFM3VabXQtOGVuYWNRWWhqYXVyNWZ0cFQwZ3JUWTB4M0FFTHpvWUp4WGdFUnA2OE4wOGZ1eFBTRXpIV3FJVVJuMXlxeXNmaUtpN3pzZC1sakg5cEk2UmdmcG9RMVJhZ09KdEo4OEZ0RWptbG9ZOWp0YzQwSk9IcE83Q0JERHN3RVVKZw?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 18:05:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Toyota Isn’t Sold On Plug-In Hybrid Trucks, And Towing Is The Problem - Autoblog",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjg0dkcwS1NnV1ozaWM2RTJnME56ODVvMHpSbUVRYUVGWS1pZTgzMzNjWUVrNVBtYTJBc3c2RTN5S1lueWIwdXRZZ05XNmpmUDR2RzltVlVWT3FOVlJDSFpBVzFReEVEVklYcERFdHdzTS1CN3ExY1lkSy1kc2tZWXlKYmZhLThVUGxQcFBvS19DVEZOX00wZG5yRG44QQ?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 14:45:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Man’s Family Road Trip Gets Derailed When A Small Object Bangs Under His Toyota On The Highway. Then He’s Told It’ll Cost $7,000 - Motor1.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VY01aZTVtYUFka21JbDhjbm00VXNZVENzdzVuV2VKeUVQQlVqVGpHNjg1bEcwMHdTckk5TDlNTGZlV3pNRTd5Y2JCT3RoRl94cVQ4c3cwVnlmdFFwekZDaTVkN2pjOE1BeFY1T3l3?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 10:02:36 GMT",
+          "source": ""
+        }
+      ]
+    },
+    "signals": {
+      "keyword_counts": {
+        "warranty": 1,
+        "supply_chain": 0,
+        "dealer": 0
+      },
+      "news_count": 8,
+      "latest_news_days": 0.12421326912111706,
+      "evidence_sources": [
+        {
+          "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kZFFKSW85eVdjX0lJNmp5bDJNVmk4eDRnWTdLSS1MQk1PUW4teUxHSi1GVDUxTURkLVJoMzJidjBUeUNSc1RGaFdWcnh5cmNWeFl2RHE4QzVaVGxDaEtMNXotakRRUk54WVRGVjFscm9uZXJBQ2VFV3NnMzdXT2_SAYQBQVVfeXFMT3EyMGhPZjh1SXI4a1hSOFQwNXZhd180NlFpVFN1WlgtRmtFc0NDWTNvSl91N3lQX0Y0N3o3cjJ4c3oyUEpvZmNJaHVVYUtqa2ZaWXZseHVEVHdMbEVpS0JaX2VJRGF5eFE2R2txMHhLNnNLZ1RpT2pfOEtielBVc3JxVUxT?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 06 Jul 2026 20:30:01 GMT"
+        },
+        {
+          "title": "Car Review: Toyota redesigns the RAV4 Hybrid with more power, rugged look - WTOP",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDJtQ3ZCMUIyLWpidVFhaWlGVDZIellzV0JEWDVCYWZ6VGZLdG5VbEozUE1EZEV2aFM1dmNmQi0tVFpTLXVYS0FpeFpYYmpld05DQ2ZLQlJyS2VBZERsQk13LTZxRVcwLUdCbW9uNF8xQV9UVWtiZmYtd3hMNXNCQnk5ZkxDcG1reEhLeFdoZEtMV1gxVVB1bzZFSzJDY3lDUUZxQlUxOG82R2dsSHc?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 09:53:04 GMT"
+        },
+        {
+          "title": "Toyota Delays 2027 Highlander EV; Current Gas and Hybrid Versions Will Stay in Production - Cars.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2tselhGbE5iV1N0bFRxOUVELTg1RDlMMDltRHhSbjZmOUtUSWw1aGN2ZE1oYzFnS1JrcC1pWjdaSlhXRFotaHJCVEFRWlN5VlRhdHREQW5HUmd5WFZ6N2ViREVzeXQzbG9Sc2VFUEFzUVNaMkNzNEZDekRQSk8tNVJfakNRSnBhTVBuTEdnbVN6R18zUnd5NE9lV3hzbHQ4U3FENTN0X21EUHd5bnE0U2pCc3RJSlpvTmU1WlBmMjVibUJS?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 16:01:05 GMT"
+        },
+        {
+          "title": "Toyota’s reaction to Tänak’s first Yaris appearance since 2019 - DirtFish",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzZvc1JreVJUSld5emg5SzlZN1pMemRuTmw4U2YzTFVoMVBXYk53eUV0b1BDdGhRampQd3U1SUszdUk1N1JWRnk4bjNRRm1ZakttTEV0QTBBdUxMeXJDR0gySlFnV2YtU3VRNEVVdHQwRnBZcS1ONW1mZFg2WjZqdmM5M3dCaGJXYkk0eVV4ejlNZGJEeXg0?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 06 Jul 2026 08:05:48 GMT"
+        },
+        {
+          "title": "Rumor Claims The Toyota Previa Is Coming Back As A \"Driver Oriented\" Minivan - thetruthaboutcars.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWVhUl8zLXEyMmtGRnJrU2FUYl85WVQta041X1F4NF9TQ2VkZmxvdW5GRzg1d3RydExIQ0J0SHpaRURlOFEwUGZFcHVIRmlEb0dqYk5ldHBfNE9fenVnZGotNWpTd0lzRUFKbDZQLUhvM2xGWmdiUncwbi1lTEU0dXdBYmQ2WXEzMEFwbXVCUGVJMHh0Y0EyX08yN1Uwd09ic1NBWUExdXlqUkxDNWxtNDZLY2NMdnRmeGJyRHhxMWdUY3NSa2tkZjJ0a28?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Trademark Indicates Toyota Wants To Offer A More Athletic Camry - Autoguide.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0VXT2JEcWdQZjhBLV85X2dNM0dDVjh0bXMtQ3FlWUhoN3NkODdkcmVlcEU3bXI0eHNKaE1kSENFM3VabXQtOGVuYWNRWWhqYXVyNWZ0cFQwZ3JUWTB4M0FFTHpvWUp4WGdFUnA2OE4wOGZ1eFBTRXpIV3FJVVJuMXlxeXNmaUtpN3pzZC1sakg5cEk2UmdmcG9RMVJhZ09KdEo4OEZ0RWptbG9ZOWp0YzQwSk9IcE83Q0JERHN3RVVKZw?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 18:05:00 GMT"
+        },
+        {
+          "title": "Toyota Isn’t Sold On Plug-In Hybrid Trucks, And Towing Is The Problem - Autoblog",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjg0dkcwS1NnV1ozaWM2RTJnME56ODVvMHpSbUVRYUVGWS1pZTgzMzNjWUVrNVBtYTJBc3c2RTN5S1lueWIwdXRZZ05XNmpmUDR2RzltVlVWT3FOVlJDSFpBVzFReEVEVklYcERFdHdzTS1CN3ExY1lkSy1kc2tZWXlKYmZhLThVUGxQcFBvS19DVEZOX00wZG5yRG44QQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 14:45:00 GMT"
+        },
+        {
+          "title": "Man’s Family Road Trip Gets Derailed When A Small Object Bangs Under His Toyota On The Highway. Then He’s Told It’ll Cost $7,000 - Motor1.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VY01aZTVtYUFka21JbDhjbm00VXNZVENzdzVuV2VKeUVQQlVqVGpHNjg1bEcwMHdTckk5TDlNTGZlV3pNRTd5Y2JCT3RoRl94cVQ4c3cwVnlmdFFwekZDaTVkN2pjOE1BeFY1T3l3?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 10:02:36 GMT"
+        }
+      ]
+    },
+    "handbook_fit": {
+      "Warranty Analytics": 0.06643122434616089,
+      "Supply-Chain Risk Prediction": -0.010985677130520344,
+      "Dealer & Field Service Intelligence": 0.09907115995883942
+    },
+    "mapping": {
+      "service": "Dealer & Field Service Intelligence",
+      "justification": "Default recommendation.",
+      "evidence": []
+    },
+    "retrieved_passages": [
+      {
+        "id": 0,
+        "score": 0.05942513421177864,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      }
+    ],
+    "score_breakdown": {
+      "signal_strength": 0.4,
+      "recency": 0.999,
+      "handbook_fit": 0.099,
+      "evidence_quality": 0.0,
+      "weights": {
+        "signal": 0.35,
+        "recency": 0.25,
+        "handbook_fit": 0.25,
+        "evidence": 0.15
+      },
+      "final_score": 41.44
+    }
+  },
+  {
+    "profile": {
+      "company": "Volkswagen",
+      "website": "https://www.vw.com/",
+      "overview": "Our innovative features and systems are engineered from the wheels up for your peace of mind., 1 of 3\nSee how select Volkswagen models stack up against the competition’s cost of maintenance., 2 of 3\nOf course we’ve got cutting-edge technology, from generative AI-enhanced voice control to insights about your Volkswagen., 3 of 3",
+      "sources": [
+        {
+          "type": "website",
+          "url": "https://www.vw.com/"
+        }
+      ],
+      "recent_news": [
+        {
+          "title": "Volkswagen board faces crunch talks over plant closures, job cuts - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzBzaFJXdW94QmxuRllSMTJEdmpCTUhmb3F0QzJLSEx4M2U1RWlGLUhPRG52TExjZVQtMmI5SEpPVURtTXlwSTBnajN3UVk2TEtQUVVLMmFueXhSVm5tN3BMMkFUcWt3b1BEY0tqZUNSenRBOVl3bWlMWDNGUVJQQmd5QlZPM2tPM3k3ZldrU0JIZU1ZUjFlNENJbXFxWE5FU0ZoNU9lMGxoTEt5YnJUQ19YTUZxQnFGN0N5WXJR?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 05:05:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Volkswagen put 100 sheep to work under 31,000 solar panels - Electrek",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGZ3UldWVTRjamhmSkZpQ05RU1E5UW9xdW12Z2hsNm9mQmlMcFNWUFkyNjJIZlNwVUZSTTFWMXo2ZjVLQWNKRXNWY3lQcV9LQldVZ3VfbmRpV3ZSeFZZb2VzbUUyMXB5b25zckQ0R0JWWVI3cG5XN1BkVzhENF92Y0RQbEVqNElBSXlIVmxSbGhUbWc?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 21:12:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Volkswagen Explains Why The New Atlas Looks Different Than China's Teramont - Motor1.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHczSDBrZXhVbWhTNnhONzQtNVo1Z1JyUHBQdUwxQWp5dW5uWmxKU1dTZ1BzdGtGeGszS0RBZ0pVY191Qll2X1V6dUpzckFCMHhuX3N6Y1VoOWRTNXg3bUtQMlRkQWhORGpsRUl1eTZaMklZb1RxSkNGczdMcUhqdHRTVktGN1d3OGg5cThsa04?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 12:33:41 GMT",
+          "source": ""
+        },
+        {
+          "title": "Golf GTI EDITION 50 is the fastest front-wheel drive production model on the Nürburgring Nordschleife - Volkswagen Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFdxVDh1S1luUVlUN3UtUEhndW9NSGR2YjF5bUR6RkdqUkF0d3k1ZFR6SGFvMWdlRnFuazhScFRLa0ptbWJHa1RPc2pjUTgyazdFWm5nS1hSRHdkMktKaFhFemZEZ0dLalljYWtQQVFLVjVfYW5CeVdMaTI0Q2tmMzNfVDV1aWo1VnRvLUZMang4djZ2d1RNbTlQajk3YUV4UkpyNnl6RmVRU2M4UzhaaDg1Sk1Ta3BzNE10bFJqRUFaSm5MR2FUVnRsQzFBN3pYcndiSDdST2Vlc25VVkZKN0doelhKRzd0NVdYNHpwa0ZHVnc?oc=5",
+          "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "VW faces protests in Germany over proposed job cuts and factory closures - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmtyVWhJTE1qZHh4dUg1eDV5UldveFMwQl9MSTRUaFYwY2xHOXRQNEZpaF85Vk95bUkzYVNrdlM1T0FNelZON01fcEMzQnlJSzJ1RVl1dUV1QVZrSFZwQnl1Y1g0VGdhYnZENzN0SlRYQTNMLU5PZDM4RmVlX0hjcFVuRkNjcm50OHZ1bjBKNG4xd05nTzhqRFpad3BjSmNydERYeWlB?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 10:19:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Volkswagen job cuts: Germany's time as a car nation is over - analyst - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFpOUzNHTTlzVDRXdWU0M1Q5ODVQWVNlUEZJUTdNcXBLUlRkOThzdzlDelMxZzRtNlNsclNHZWZNMS1oZUxiQ1g4dkFMSENFXy0wRTlUOXMxNDhWTFNNSzFsbks2SHJWcFdObVRvZURRcHFtQTh4TllJV3NUQzVsSlhMZE5lb2hzMTQxS1NBczRackVkcTBxZkZYR3R1VmgxeGFJ?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 12:51:06 GMT",
+          "source": ""
+        },
+        {
+          "title": "Volkswagen Is Employing 100 Sheep At A Solar Farm In Poland - Engadget",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlE2SUFUcUdxclBTRmpzeVp0MjVsWi1JTFFzLTd1Qy1hdkNTcm5JMjJIS3o5TUhySzZlZWdZOGdIREU1TTk0QnFOMXpoNU1Nd3VITjhrUk1YajVFaXNmcjk0NERYbmtqYTJuWWtmS0wzdHRUWHFLNmhsZ1dfSDRTT2pobWR1N0drMUQyQi1ROUN2N0pJQU1xNQ?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 23:22:18 GMT",
+          "source": ""
+        },
+        {
+          "title": "Volkswagen board faces crunch talks over plant closures, job cuts - Euronext Markets: Real-time Stock Market Data | live",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFJ6cGwzcnZqUlZ5Q241eWNvRHVXWmRvRFZ0YUhvTEU5TUM4TWttZnRsZ2thTU5qb2VhYnZ4R2JtMjJmcTBxQ29zbU90dnRJQXQ2MmVZQTNrSHlkblcyeVZJZHVXWkVRZjQ1ZTM2OW9hV0phbnk4QnE2Z1pMY0ljemI5MzMwMEdyakdlMnc1V2JtVnVTQUJwWDNpUlJISF9ZR0pKZThjY19nWjFO?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 12:14:48 GMT",
+          "source": ""
+        }
+      ]
+    },
+    "signals": {
+      "keyword_counts": {
+        "warranty": 0,
+        "supply_chain": 0,
+        "dealer": 0
+      },
+      "news_count": 8,
+      "latest_news_days": 0.00735199303538711,
+      "evidence_sources": [
+        {
+          "title": "Volkswagen board faces crunch talks over plant closures, job cuts - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzBzaFJXdW94QmxuRllSMTJEdmpCTUhmb3F0QzJLSEx4M2U1RWlGLUhPRG52TExjZVQtMmI5SEpPVURtTXlwSTBnajN3UVk2TEtQUVVLMmFueXhSVm5tN3BMMkFUcWt3b1BEY0tqZUNSenRBOVl3bWlMWDNGUVJQQmd5QlZPM2tPM3k3ZldrU0JIZU1ZUjFlNENJbXFxWE5FU0ZoNU9lMGxoTEt5YnJUQ19YTUZxQnFGN0N5WXJR?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 05:05:00 GMT"
+        },
+        {
+          "title": "Volkswagen put 100 sheep to work under 31,000 solar panels - Electrek",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGZ3UldWVTRjamhmSkZpQ05RU1E5UW9xdW12Z2hsNm9mQmlMcFNWUFkyNjJIZlNwVUZSTTFWMXo2ZjVLQWNKRXNWY3lQcV9LQldVZ3VfbmRpV3ZSeFZZb2VzbUUyMXB5b25zckQ0R0JWWVI3cG5XN1BkVzhENF92Y0RQbEVqNElBSXlIVmxSbGhUbWc?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 21:12:00 GMT"
+        },
+        {
+          "title": "Volkswagen Explains Why The New Atlas Looks Different Than China's Teramont - Motor1.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHczSDBrZXhVbWhTNnhONzQtNVo1Z1JyUHBQdUwxQWp5dW5uWmxKU1dTZ1BzdGtGeGszS0RBZ0pVY191Qll2X1V6dUpzckFCMHhuX3N6Y1VoOWRTNXg3bUtQMlRkQWhORGpsRUl1eTZaMklZb1RxSkNGczdMcUhqdHRTVktGN1d3OGg5cThsa04?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 12:33:41 GMT"
+        },
+        {
+          "title": "Golf GTI EDITION 50 is the fastest front-wheel drive production model on the Nürburgring Nordschleife - Volkswagen Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFdxVDh1S1luUVlUN3UtUEhndW9NSGR2YjF5bUR6RkdqUkF0d3k1ZFR6SGFvMWdlRnFuazhScFRLa0ptbWJHa1RPc2pjUTgyazdFWm5nS1hSRHdkMktKaFhFemZEZ0dLalljYWtQQVFLVjVfYW5CeVdMaTI0Q2tmMzNfVDV1aWo1VnRvLUZMang4djZ2d1RNbTlQajk3YUV4UkpyNnl6RmVRU2M4UzhaaDg1Sk1Ta3BzNE10bFJqRUFaSm5MR2FUVnRsQzFBN3pYcndiSDdST2Vlc25VVkZKN0doelhKRzd0NVdYNHpwa0ZHVnc?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "VW faces protests in Germany over proposed job cuts and factory closures - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmtyVWhJTE1qZHh4dUg1eDV5UldveFMwQl9MSTRUaFYwY2xHOXRQNEZpaF85Vk95bUkzYVNrdlM1T0FNelZON01fcEMzQnlJSzJ1RVl1dUV1QVZrSFZwQnl1Y1g0VGdhYnZENzN0SlRYQTNMLU5PZDM4RmVlX0hjcFVuRkNjcm50OHZ1bjBKNG4xd05nTzhqRFpad3BjSmNydERYeWlB?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 10:19:00 GMT"
+        },
+        {
+          "title": "Volkswagen job cuts: Germany's time as a car nation is over - analyst - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFpOUzNHTTlzVDRXdWU0M1Q5ODVQWVNlUEZJUTdNcXBLUlRkOThzdzlDelMxZzRtNlNsclNHZWZNMS1oZUxiQ1g4dkFMSENFXy0wRTlUOXMxNDhWTFNNSzFsbks2SHJWcFdObVRvZURRcHFtQTh4TllJV3NUQzVsSlhMZE5lb2hzMTQxS1NBczRackVkcTBxZkZYR3R1VmgxeGFJ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 12:51:06 GMT"
+        },
+        {
+          "title": "Volkswagen Is Employing 100 Sheep At A Solar Farm In Poland - Engadget",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlE2SUFUcUdxclBTRmpzeVp0MjVsWi1JTFFzLTd1Qy1hdkNTcm5JMjJIS3o5TUhySzZlZWdZOGdIREU1TTk0QnFOMXpoNU1Nd3VITjhrUk1YajVFaXNmcjk0NERYbmtqYTJuWWtmS0wzdHRUWHFLNmhsZ1dfSDRTT2pobWR1N0drMUQyQi1ROUN2N0pJQU1xNQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 23:22:18 GMT"
+        },
+        {
+          "title": "Volkswagen board faces crunch talks over plant closures, job cuts - Euronext Markets: Real-time Stock Market Data | live",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFJ6cGwzcnZqUlZ5Q241eWNvRHVXWmRvRFZ0YUhvTEU5TUM4TWttZnRsZ2thTU5qb2VhYnZ4R2JtMjJmcTBxQ29zbU90dnRJQXQ2MmVZQTNrSHlkblcyeVZJZHVXWkVRZjQ1ZTM2OW9hV0phbnk4QnE2Z1pMY0ljemI5MzMwMEdyakdlMnc1V2JtVnVTQUJwWDNpUlJISF9ZR0pKZThjY19nWjFO?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 12:14:48 GMT"
+        }
+      ]
+    },
+    "handbook_fit": {
+      "Warranty Analytics": 0.15766829252243042,
+      "Supply-Chain Risk Prediction": 0.09551108628511429,
+      "Dealer & Field Service Intelligence": 0.30473124980926514
+    },
+    "mapping": {
+      "service": "Dealer & Field Service Intelligence",
+      "justification": "Default recommendation.",
+      "evidence": []
+    },
+    "retrieved_passages": [
+      {
+        "id": 0,
+        "score": 0.2651088833808899,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      }
+    ],
+    "score_breakdown": {
+      "signal_strength": 0.0,
+      "recency": 1.0,
+      "handbook_fit": 0.305,
+      "evidence_quality": 0.0,
+      "weights": {
+        "signal": 0.35,
+        "recency": 0.25,
+        "handbook_fit": 0.25,
+        "evidence": 0.15
+      },
+      "final_score": 32.62
+    }
+  },
+  {
+    "profile": {
+      "company": "Hyundai Motor Company",
+      "website": "https://www.hyundai.com/worldwide/en",
+      "overview": "Entertainment\n\n\nHyundai â¥ Catch! Teenieping: Reunited Once AgainâChu!\n\n\n\n\nDiscover Youth Adventure 2026, the second collaboration between Hyundai and Catch! Teenieping, unveiling a new character within an expanded universe.",
+      "sources": [
+        {
+          "type": "website",
+          "url": "https://www.hyundai.com/worldwide/en"
+        }
+      ],
+      "recent_news": [
+        {
+          "title": "Hyundai Motor Extends Healthy Seas Partnership with Joint Conservation and Educational Initiatives in Türkiye - hyundai.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WTExRZEdETUZzbWNrOV92VUdkN0VOVmJ0R2drN3l1MG91azl6T2pZYWRWb2xubjNwOEdjaTFYOFpPcTc3QmlyRnBqTUUxcGE4YXRZc0dfb3lqN3pYSWl5ZnZlRHUtSHpMYklRZDhZa3M?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Hyundai Motor America Launches 2026 Summer Sales Event, Delivering Affordability Across its Award-Winning Lineup - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNV2J4SkYwMGxwNEVHUlFuQmhwTFBjU05RbVpOenN0eUJTU2VmdE8xRDVSd0ktOUVCUzlqdzdKM0ZER1NEZ090YlotNUpIZG1Jb2QyZnBDWVpSSDR3OWd3X0FadjkwN09BSW1wcjd6aGd0SnZiSXJRY0QydHVCaDllOGo0Z0NDWjhPcXZ1MWdWRWduM2wtUEdfay1PU0Y5T2ZkMkZ4VnJ6UTUzcjhfRTdJREEyc1BncFNVekpmQlZUWVpHWHpJbEJxeTRpckd0UGtQME1xV250aXJOZW5ma3RaOHpEeHBxbDFJdVhwRC1NRnp4WnYwM1hWMkxaWQ?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 19:09:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Three Hyundai Models Rank Tops in Segment in JD Power 2026 U.S. Initial Quality Study - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUsyeEc0bVZHVXZ5eF93Tldrc3Blcm9aRG1VcVdKMVgyV3NTZnFHQnhaMG9mc3JjQkhMWXk5cTVnSElJU0h3YkFkMHhSN0NEV2I0ZTExY3pzQk1YZ1pFc2VoTU5PanpFQ3FrQW9lbDRlbjNFbzVmYmtwZ01mWGowaEZpV19tYS1kdk5oYVRhbkFrak9DVG95bUk4WQ?oc=5",
+          "publishedAt": "Thu, 25 Jun 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Hyundai Motor Group Metaplant America powers jobs, technology and growth in Ellabell - WJCL",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ueXVhSWJUZHZ4Z0NBWDVOYWJTaVFOeG5wUWIxRmxWYjIzek5RV1dyeF9mcVd3R0dFcjM0Ty1qSXZwMzF3NWR2MDRhcDNqU3hoZE5Gbm1BbXVZQXpZSmJhbnRYYWRmempvRVlWQWhIZUNNM3FKbm9Cc2ttTQ?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 15:24:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Kemp to meet with Hyundai, international leaders in Scotland, Ireland - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcExaUUl6VFlYVnhTLW01WEQ3aHFXazFmWHpvVW5xN3pRNGxlV2dJMkVpMW56ZWtBM1YzcnhQNEN3emZYdkRCWDBjb3dOTjFZdnVBODVqUmMzaDkybEVsY3ctd0luMTgtVlc3X2N2SEMtcDdHQzVfVE1vaUIxcnZxN2I1TlIwLTljVFVZ?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 09:21:12 GMT",
+          "source": ""
+        },
+        {
+          "title": "Hyundai x BBC | The Training Ground (30s) - Hyundai Motor Group",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb0V0RjNoa3BGa3lvdEVDaGFVa3dSU0Q5bEZPeGc1TUwyOFFKbmlwdnM5cEdULVI4M1RRWDVEbzZtbVFYVzJlZldWeldRcVQ5ZzR1bWlIdllqWHU3a2ZDUk40UnQ1Rk5ubVFYQTNWaHBhLUZ5RHoyZGZDMjJEZS1lU0tsUzJsdw?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 02:30:08 GMT",
+          "source": ""
+        },
+        {
+          "title": "Hyundai Card completes its first real-world stablecoin pilot with Avalanche, Tether - The Block",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWZVRGxTYW4tLVdKR0dqUU1lLVBMUEt3ZjhXMTNoQXhqVkpoMVNFeEduYTR0TDF2N056R091UnFIdkxkdUw1UGgxckZyWThvZ0FmSEJNV1VNUndTTzdDN01CQ2Y4Y2hfVC1SNUo2ODY0T2VjTTREYjV3RnlvUVhSTw?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 06:46:10 GMT",
+          "source": ""
+        },
+        {
+          "title": "Hyundai Card tests stablecoin transfer for Hyundai Motor units - The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qdzQ3ZG9xRGU1cDRtbW9HSi1xQzVSLWpPd3d5NXRjN0ZmNkVCeGN2eG5nX1VnT19YYmFocU5zTHdIcUNfRHR1NzkwQTdTT2I5dHl6aDktQQ?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 05:32:31 GMT",
+          "source": ""
+        }
+      ]
+    },
+    "signals": {
+      "keyword_counts": {
+        "warranty": 0,
+        "supply_chain": 0,
+        "dealer": 0
+      },
+      "news_count": 8,
+      "latest_news_days": 0.15333128124199533,
+      "evidence_sources": [
+        {
+          "title": "Hyundai Motor Extends Healthy Seas Partnership with Joint Conservation and Educational Initiatives in Türkiye - hyundai.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WTExRZEdETUZzbWNrOV92VUdkN0VOVmJ0R2drN3l1MG91azl6T2pZYWRWb2xubjNwOEdjaTFYOFpPcTc3QmlyRnBqTUUxcGE4YXRZc0dfb3lqN3pYSWl5ZnZlRHUtSHpMYklRZDhZa3M?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Hyundai Motor America Launches 2026 Summer Sales Event, Delivering Affordability Across its Award-Winning Lineup - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNV2J4SkYwMGxwNEVHUlFuQmhwTFBjU05RbVpOenN0eUJTU2VmdE8xRDVSd0ktOUVCUzlqdzdKM0ZER1NEZ090YlotNUpIZG1Jb2QyZnBDWVpSSDR3OWd3X0FadjkwN09BSW1wcjd6aGd0SnZiSXJRY0QydHVCaDllOGo0Z0NDWjhPcXZ1MWdWRWduM2wtUEdfay1PU0Y5T2ZkMkZ4VnJ6UTUzcjhfRTdJREEyc1BncFNVekpmQlZUWVpHWHpJbEJxeTRpckd0UGtQME1xV250aXJOZW5ma3RaOHpEeHBxbDFJdVhwRC1NRnp4WnYwM1hWMkxaWQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 19:09:00 GMT"
+        },
+        {
+          "title": "Three Hyundai Models Rank Tops in Segment in JD Power 2026 U.S. Initial Quality Study - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUsyeEc0bVZHVXZ5eF93Tldrc3Blcm9aRG1VcVdKMVgyV3NTZnFHQnhaMG9mc3JjQkhMWXk5cTVnSElJU0h3YkFkMHhSN0NEV2I0ZTExY3pzQk1YZ1pFc2VoTU5PanpFQ3FrQW9lbDRlbjNFbzVmYmtwZ01mWGowaEZpV19tYS1kdk5oYVRhbkFrak9DVG95bUk4WQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 25 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Hyundai Motor Group Metaplant America powers jobs, technology and growth in Ellabell - WJCL",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ueXVhSWJUZHZ4Z0NBWDVOYWJTaVFOeG5wUWIxRmxWYjIzek5RV1dyeF9mcVd3R0dFcjM0Ty1qSXZwMzF3NWR2MDRhcDNqU3hoZE5Gbm1BbXVZQXpZSmJhbnRYYWRmempvRVlWQWhIZUNNM3FKbm9Cc2ttTQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 15:24:00 GMT"
+        },
+        {
+          "title": "Kemp to meet with Hyundai, international leaders in Scotland, Ireland - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcExaUUl6VFlYVnhTLW01WEQ3aHFXazFmWHpvVW5xN3pRNGxlV2dJMkVpMW56ZWtBM1YzcnhQNEN3emZYdkRCWDBjb3dOTjFZdnVBODVqUmMzaDkybEVsY3ctd0luMTgtVlc3X2N2SEMtcDdHQzVfVE1vaUIxcnZxN2I1TlIwLTljVFVZ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 09:21:12 GMT"
+        },
+        {
+          "title": "Hyundai x BBC | The Training Ground (30s) - Hyundai Motor Group",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb0V0RjNoa3BGa3lvdEVDaGFVa3dSU0Q5bEZPeGc1TUwyOFFKbmlwdnM5cEdULVI4M1RRWDVEbzZtbVFYVzJlZldWeldRcVQ5ZzR1bWlIdllqWHU3a2ZDUk40UnQ1Rk5ubVFYQTNWaHBhLUZ5RHoyZGZDMjJEZS1lU0tsUzJsdw?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 02:30:08 GMT"
+        },
+        {
+          "title": "Hyundai Card completes its first real-world stablecoin pilot with Avalanche, Tether - The Block",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWZVRGxTYW4tLVdKR0dqUU1lLVBMUEt3ZjhXMTNoQXhqVkpoMVNFeEduYTR0TDF2N056R091UnFIdkxkdUw1UGgxckZyWThvZ0FmSEJNV1VNUndTTzdDN01CQ2Y4Y2hfVC1SNUo2ODY0T2VjTTREYjV3RnlvUVhSTw?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 06:46:10 GMT"
+        },
+        {
+          "title": "Hyundai Card tests stablecoin transfer for Hyundai Motor units - The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qdzQ3ZG9xRGU1cDRtbW9HSi1xQzVSLWpPd3d5NXRjN0ZmNkVCeGN2eG5nX1VnT19YYmFocU5zTHdIcUNfRHR1NzkwQTdTT2I5dHl6aDktQQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 05:32:31 GMT"
+        }
+      ]
+    },
+    "handbook_fit": {
+      "Warranty Analytics": 0.09176743030548096,
+      "Supply-Chain Risk Prediction": -0.03006310947239399,
+      "Dealer & Field Service Intelligence": 0.1492651104927063
+    },
+    "mapping": {
+      "service": "Dealer & Field Service Intelligence",
+      "justification": "Default recommendation.",
+      "evidence": []
+    },
+    "retrieved_passages": [
+      {
+        "id": 0,
+        "score": 0.09643994271755219,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      }
+    ],
+    "score_breakdown": {
+      "signal_strength": 0.0,
+      "recency": 0.998,
+      "handbook_fit": 0.149,
+      "evidence_quality": 0.0,
+      "weights": {
+        "signal": 0.35,
+        "recency": 0.25,
+        "handbook_fit": 0.25,
+        "evidence": 0.15
+      },
+      "final_score": 28.69
+    }
+  },
+  {
+    "profile": {
+      "company": "Continental",
+      "website": "https://www.continental.com/",
+      "overview": "In this episode of The Continental Tires Garage, we crack the “rubber code.” Discover why summer and winter tires require fundamentally different rubber compounds to perform in changing temperatures and road conditions throughout the year. The right rubber compound is essential for safety, efficiency and durability. Through hands-on experiments, our tire compound expert Dr. Thorsten Torbrügge and host Daniel Holzberg demonstrate how temperature affects tire performance. You’ll see why summer tires begin to harden and lose grip below 7°C, while winter tires stay flexible and provide traction on snow and ice.\n\nPlease find here all episodes of the new season “The Continental Tires Garage”",
+      "sources": [
+        {
+          "type": "website",
+          "url": "https://www.continental.com/"
+        }
+      ],
+      "recent_news": [
+        {
+          "title": "Best Resorts in the Continental U.S. - Travel + Leisure",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmdXOEJLNjVwOWZLcjR5SVJpcVFQaWFSS3J2WEJuVFpaRDFSVm9kSDBGY01VWnhRSGZoSmlVQV8tUUI3NUZFaGhwVlBDU0REMGdLaWRWTnpZdjJrenMzOXUwTl8wQUozcHJJYXRrMllKVGlvb29KRFlhNDE2aU82UEJ0T1ZOektXQVlJ?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 10:19:20 GMT",
+          "source": ""
+        },
+        {
+          "title": "Hope on the Divide: Hikers tackle 180-mile Continental Divide Trail to raise suicide awareness - KBZK News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNktlT2FSM0xZby1YVC1valJscGRPXzJQQ3dUd1JtY0RGUHVEYmVuamIxcHUzTmJTOVdDckktWHZla3FkZGtRczNTVC1EWlhzMnczZE93ZVZKOGdwMHV6ZW9YSi1zRmlfVDhlX0RPcnBxSmxfOUVUTEZjM3JyMEh0cEsyQ1ZiUFo3bEF0NGpqRjhFckFFMHFjSlNKc3lZZGJ4TGNyUjRaYUpJdUQ1WmRIRXNmUElpaDdNTDgw?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 22:07:53 GMT",
+          "source": ""
+        },
+        {
+          "title": "After years of black dust complaints, Oklahoma cites Continental Carbon for 81 alleged violations - The Frontier",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXRMcjFWMVhIek9RbWpiRlBwWkdEcmpsb0pJbFdkeVpNMWxqVjJYVUVJeVBZR2FLakZIV3RESzRPWGxiazFpMjFxVFRaOFBmR2lsY1B4U1pQRnBzU1BBMTRCQVRhMnRnamNrZmkxbXNTN1BmeVpQTC0wekRmQm01d3NIdkwtbEZGeDNuUHc4c1hiV1h0b0Jmc1pFb3dIREdIYUE3VTJBd3RkenpkaVFESzNIU1hMeUl2N0djYk5pRDFPRlNLSlpocWJndlVVNGc?oc=5",
+          "publishedAt": "Wed, 08 Jul 2026 15:17:43 GMT",
+          "source": ""
+        },
+        {
+          "title": "Continental Agrees to Sell ContiTech Business to Lone Star Funds - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTBuYjZXU3VLek5iNjJHT2p1N09EaVhKX2EteDAzUjE1bkZvU3ZId1ZNSGZZeFl1RGk3LURocjlrRFdQemlfeWlvMFlvWHFmc0YxN002ekZFMHFuYXpnZEY2cnAxUHpLTk5FUldOZll2WkZlc1dpeEpYdEwtdDhwdTFKQlNyOHQ0OEk5akJ4NTVuQUhqbWwyWmFrdTRtc3VTUHVBdW5IOGJ6WHFh?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 06:04:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins - FIDE",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlpXVV9JdkFxNlhMZUxyU3Y1VkNjSjJXd0RuV29lRXRIRzctQ08tMlQxZ0w1MDZtSFV0S054QzdyVEVMUE5oUVQ4V3pLelpuc0Vwb1gwLUFWWlctMTZXNGtYRHBVUi1QWjVNTlpVZjBVZ1BRcWJIdnJoSmxNcktYQjVGelJqQjBXZ3VuTFRhMUlvMVNaVnVXMUV1VnFlX2VrSXpHWHd2b1BiMTlRUE4tV18xQTJyOVJTZTQzRlRqaHNsdE90?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 20:38:20 GMT",
+          "source": ""
+        },
+        {
+          "title": "Against Amnesia: The Venezuelan Earthquake, the Historical Moment and the Continental Question - CounterPunch.org",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0Q4MlNPaGVFTndDWm4yWnNQd3BSSE1KZkJNVkxrODNtZXFOaE1fSzJNNFRlbkMtLU1RS3BXTTlaaG4wYzRBb3JXV19rWGZybjVxcVZUaDBVWXF0NFBjeUltM2d4a2pIM1AxcHVNUjFFSVZmUjJucGxkX3Q0V0R1MVBXZDc0cDVfaWpDUERYMWozQU13UUViTEhNNFloM29yRHowYXdrcTJtdUNqSnlfZlpJazY2WVVfdlowdFZpdHZFcEVFQzd6eHdNbzFWUQ?oc=5",
+          "publishedAt": "Thu, 09 Jul 2026 06:00:09 GMT",
+          "source": ""
+        },
+        {
+          "title": "Crews respond to Pulaski County refinery fire - WKYT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnlMcHlPckc0bHQ3YWFXX2RmZ3JfSDBVM1lwRm1PRFhUcmN0d1lXOWhnMGZMdnE3Um5xa0JvWFlOUkpTb21aanhJNFJ0RVl3VWVkNTdXeHNval9Hal92VEdIMHVuX09jTHVzQ3RRQy0xVTZ6bkFPV2VwM01MVkRIdQ?oc=5",
+          "publishedAt": "Mon, 06 Jul 2026 16:35:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Contract awards for four development projects on the Norwegian continental shelf - Equinor",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUldlM3VXTkh3TTFGck9nQTlOM1p0S2ZUY0l0NUR3VURTdUNIemkwVFFxZEowdGtXUGl2OXQ3N0NZR19ENFFaSzNhT0kzX1hSM2RYR3FoWEJxUDROdEdnRTAyazJkT2ZKTUcxT3dGTUZPanRaVS01TDV5Vi1MRzc1WlM4WExyRThYcXVB?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 06:44:45 GMT",
+          "source": ""
+        }
+      ]
+    },
+    "signals": {
+      "keyword_counts": {
+        "warranty": 0,
+        "supply_chain": 0,
+        "dealer": 0
+      },
+      "news_count": 8,
+      "latest_news_days": 0.29144956572188274,
+      "evidence_sources": [
+        {
+          "title": "Best Resorts in the Continental U.S. - Travel + Leisure",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmdXOEJLNjVwOWZLcjR5SVJpcVFQaWFSS3J2WEJuVFpaRDFSVm9kSDBGY01VWnhRSGZoSmlVQV8tUUI3NUZFaGhwVlBDU0REMGdLaWRWTnpZdjJrenMzOXUwTl8wQUozcHJJYXRrMllKVGlvb29KRFlhNDE2aU82UEJ0T1ZOektXQVlJ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 10:19:20 GMT"
+        },
+        {
+          "title": "Hope on the Divide: Hikers tackle 180-mile Continental Divide Trail to raise suicide awareness - KBZK News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNktlT2FSM0xZby1YVC1valJscGRPXzJQQ3dUd1JtY0RGUHVEYmVuamIxcHUzTmJTOVdDckktWHZla3FkZGtRczNTVC1EWlhzMnczZE93ZVZKOGdwMHV6ZW9YSi1zRmlfVDhlX0RPcnBxSmxfOUVUTEZjM3JyMEh0cEsyQ1ZiUFo3bEF0NGpqRjhFckFFMHFjSlNKc3lZZGJ4TGNyUjRaYUpJdUQ1WmRIRXNmUElpaDdNTDgw?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 22:07:53 GMT"
+        },
+        {
+          "title": "After years of black dust complaints, Oklahoma cites Continental Carbon for 81 alleged violations - The Frontier",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXRMcjFWMVhIek9RbWpiRlBwWkdEcmpsb0pJbFdkeVpNMWxqVjJYVUVJeVBZR2FLakZIV3RESzRPWGxiazFpMjFxVFRaOFBmR2lsY1B4U1pQRnBzU1BBMTRCQVRhMnRnamNrZmkxbXNTN1BmeVpQTC0wekRmQm01d3NIdkwtbEZGeDNuUHc4c1hiV1h0b0Jmc1pFb3dIREdIYUE3VTJBd3RkenpkaVFESzNIU1hMeUl2N0djYk5pRDFPRlNLSlpocWJndlVVNGc?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 08 Jul 2026 15:17:43 GMT"
+        },
+        {
+          "title": "Continental Agrees to Sell ContiTech Business to Lone Star Funds - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTBuYjZXU3VLek5iNjJHT2p1N09EaVhKX2EteDAzUjE1bkZvU3ZId1ZNSGZZeFl1RGk3LURocjlrRFdQemlfeWlvMFlvWHFmc0YxN002ekZFMHFuYXpnZEY2cnAxUHpLTk5FUldOZll2WkZlc1dpeEpYdEwtdDhwdTFKQlNyOHQ0OEk5akJ4NTVuQUhqbWwyWmFrdTRtc3VTUHVBdW5IOGJ6WHFh?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 06 Jul 2026 06:04:00 GMT"
+        },
+        {
+          "title": "First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins - FIDE",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlpXVV9JdkFxNlhMZUxyU3Y1VkNjSjJXd0RuV29lRXRIRzctQ08tMlQxZ0w1MDZtSFV0S054QzdyVEVMUE5oUVQ4V3pLelpuc0Vwb1gwLUFWWlctMTZXNGtYRHBVUi1QWjVNTlpVZjBVZ1BRcWJIdnJoSmxNcktYQjVGelJqQjBXZ3VuTFRhMUlvMVNaVnVXMUV1VnFlX2VrSXpHWHd2b1BiMTlRUE4tV18xQTJyOVJTZTQzRlRqaHNsdE90?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 20:38:20 GMT"
+        },
+        {
+          "title": "Against Amnesia: The Venezuelan Earthquake, the Historical Moment and the Continental Question - CounterPunch.org",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0Q4MlNPaGVFTndDWm4yWnNQd3BSSE1KZkJNVkxrODNtZXFOaE1fSzJNNFRlbkMtLU1RS3BXTTlaaG4wYzRBb3JXV19rWGZybjVxcVZUaDBVWXF0NFBjeUltM2d4a2pIM1AxcHVNUjFFSVZmUjJucGxkX3Q0V0R1MVBXZDc0cDVfaWpDUERYMWozQU13UUViTEhNNFloM29yRHowYXdrcTJtdUNqSnlfZlpJazY2WVVfdlowdFZpdHZFcEVFQzd6eHdNbzFWUQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 09 Jul 2026 06:00:09 GMT"
+        },
+        {
+          "title": "Crews respond to Pulaski County refinery fire - WKYT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnlMcHlPckc0bHQ3YWFXX2RmZ3JfSDBVM1lwRm1PRFhUcmN0d1lXOWhnMGZMdnE3Um5xa0JvWFlOUkpTb21aanhJNFJ0RVl3VWVkNTdXeHNval9Hal92VEdIMHVuX09jTHVzQ3RRQy0xVTZ6bkFPV2VwM01MVkRIdQ?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Mon, 06 Jul 2026 16:35:00 GMT"
+        },
+        {
+          "title": "Contract awards for four development projects on the Norwegian continental shelf - Equinor",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUldlM3VXTkh3TTFGck9nQTlOM1p0S2ZUY0l0NUR3VURTdUNIemkwVFFxZEowdGtXUGl2OXQ3N0NZR19ENFFaSzNhT0kzX1hSM2RYR3FoWEJxUDROdEdnRTAyazJkT2ZKTUcxT3dGTUZPanRaVS01TDV5Vi1MRzc1WlM4WExyRThYcXVB?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 06:44:45 GMT"
+        }
+      ]
+    },
+    "handbook_fit": {
+      "Warranty Analytics": 0.03501684591174126,
+      "Supply-Chain Risk Prediction": 0.02506762370467186,
+      "Dealer & Field Service Intelligence": 0.09257464110851288
+    },
+    "mapping": {
+      "service": "Dealer & Field Service Intelligence",
+      "justification": "Default recommendation.",
+      "evidence": []
+    },
+    "retrieved_passages": [
+      {
+        "id": 0,
+        "score": 0.1425720751285553,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      }
+    ],
+    "score_breakdown": {
+      "signal_strength": 0.0,
+      "recency": 0.997,
+      "handbook_fit": 0.093,
+      "evidence_quality": 0.0,
+      "weights": {
+        "signal": 0.35,
+        "recency": 0.25,
+        "handbook_fit": 0.25,
+        "evidence": 0.15
+      },
+      "final_score": 27.23
+    }
+  },
+  {
+    "profile": {
+      "company": "ZF Friedrichshafen",
+      "website": "https://www.zf.com/global/en/home/index.html",
+      "overview": "",
+      "sources": [
+        {
+          "type": "website",
+          "url": "https://www.zf.com/global/en/home/index.html"
+        }
+      ],
+      "recent_news": [
+        {
+          "title": "ZF Lifts Q1 2026 Margin as Operational Performance Strengthens - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Mc2lMT2c1aThlY1U5OENpVEY4SkZjMVh4QW9QRjBrT3dGNkdld3lmMU5hTFB5ZE0wNkIwNWxhbTdVOUUwc1BXOWhSQmprTjBUQk16eUhiclgyTnpkN3EybXRVZkFmd09aTVE?oc=5",
+          "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Zhongjie Automotive (301560.SZ): Signed a long-term strategic cooperation agreement with ZF Friedrichshafen AG - 富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2xnbURZOF9SaThvRUliZkhIam1wdnBXb2c2NGgtWWduUFFFcGxTQlRrdnlUNVhDQnotc2gzdXJiZkVpT1pvS2puVmptaVh4NlFMNnJTT2F0VU9nRTdtZ0JDLV9nR1hfaW1GcUNaZWFHbEZyaTAwWG5zNHVJblh6bzBLQmNUdDVEUFJJM3JSNFJIZkRkTERIOE9udFlsYWZYOHBMaUJZMHc0dVFEaGdiSA?oc=5",
+          "publishedAt": "Tue, 07 Jul 2026 14:25:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Samsung Electronics unit Harman to acquire ZF Group's ADAS business for $1.8 billion - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1RNOGtocEo4QUhwQmc0SzRKSGhvTnVzSXhuSHRRRVBxamozRlBJQkdpSnBzZzkwUmg3X1Exd0t6TDdDS3hySVBXekhWTHQwWmwxQjItT3dBRjNMSDU0NW5jbWgtUHRlakd4b0wwOWpMUXZXeW9SNnl0MTlYb0g3VHBzWlRGRC10V25BbTI4SWRyVnhySWgyQVRCSmFKTlc3cnNsdDdUUWhfUVFHcU5Qejl5OE1fUW8?oc=5",
+          "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Annual Results 2025: ZF Improves Operating Performance and Reduces Debt - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nbUxlclVEZ1JhMk5Zcm1qWFB3NnBJVDhaV3d1R0Mwd2c0VGx5YkNza213NE02bGlwV0I1VnJxRUowT1pOTkktdlR2eWpRbjZpOGZXYXhrNVYzSjlqclN6dU1mTU1wa0htZ0E?oc=5",
+          "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "ZF exceeds 2025 profit margin forecast but warns of up to $2 billion e-mobility charge - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUdsVzJCRXpSN2pzMkRoT1hjZ3BnRjdxTEhRT2lBSldXVUxkaDhmcXBzOVRSakVSaldkOXRuQ3FKUzZFQ0pjbi1lcW1ybnR0NWtVSmE1U3VBQ0s2NWI0dTBCQ25BUUZVYUd5QkhTZU54M3U2QVg3ZmNKQkV3VGZ2UWtJV2lqcnhvSFlCZnhrUVZJcjU3bnJHblQ1V1hLbjJv?oc=5",
+          "publishedAt": "Fri, 23 Jan 2026 08:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "Automated Driving: ZF and SiliconAuto Reveal New I/O Interface Chip with Companion Microcontroller - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRmp5TDFMREt2UE4tZGtIdXlwWGJkSGpjWFlTZGkyUk9SMWEzSUkzWlR0TjVteWtVY2NEZkU1OF80V0xRZHpTZGZvVDRGVThfakt4UjgxM2VqNnZCa0Ffc00ydElqaTNhX2c?oc=5",
+          "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "ZF Strikes Landmark Deal with Employee Representatives to Reshape Division E for an Enduring Future - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aOXhqX25KV0llWkxHZWtrZFppcmlRSzVYRWhPSDQ4UGFQRmVsdmxtMDU1WkJUN19QLV9FR2FSdVp0QmlYVkZPdFM0N0NmdjdNR1FoZjdic0hERTNkZ000RnRIVl9mc18w?oc=5",
+          "publishedAt": "Wed, 01 Oct 2025 07:00:00 GMT",
+          "source": ""
+        },
+        {
+          "title": "ZF and BMW Sign Agreement for Future-Oriented Drive Technologies - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibnRDSVpTZ0M4ek1kendFZmU3RDIxXzNWU0pWOHh5bGoxU0V2eDdqWnFtRnFPNkdoWEVIZHZzdjZMSnhqT0xydzBjU3VPc2N4WHBTdTVMNHkwMjFxVXJncllsOG5IRDdq?oc=5",
+          "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
+          "source": ""
+        }
+      ]
+    },
+    "signals": {
+      "keyword_counts": {
+        "warranty": 0,
+        "supply_chain": 0,
+        "dealer": 0
+      },
+      "news_count": 8,
+      "latest_news_days": 1.9418685006846985,
+      "evidence_sources": [
+        {
+          "title": "ZF Lifts Q1 2026 Margin as Operational Performance Strengthens - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Mc2lMT2c1aThlY1U5OENpVEY4SkZjMVh4QW9QRjBrT3dGNkdld3lmMU5hTFB5ZE0wNkIwNWxhbTdVOUUwc1BXOWhSQmprTjBUQk16eUhiclgyTnpkN3EybXRVZkFmd09aTVE?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 06 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Zhongjie Automotive (301560.SZ): Signed a long-term strategic cooperation agreement with ZF Friedrichshafen AG - 富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2xnbURZOF9SaThvRUliZkhIam1wdnBXb2c2NGgtWWduUFFFcGxTQlRrdnlUNVhDQnotc2gzdXJiZkVpT1pvS2puVmptaVh4NlFMNnJTT2F0VU9nRTdtZ0JDLV9nR1hfaW1GcUNaZWFHbEZyaTAwWG5zNHVJblh6bzBLQmNUdDVEUFJJM3JSNFJIZkRkTERIOE9udFlsYWZYOHBMaUJZMHc0dVFEaGdiSA?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 07 Jul 2026 14:25:00 GMT"
+        },
+        {
+          "title": "Samsung Electronics unit Harman to acquire ZF Group's ADAS business for $1.8 billion - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1RNOGtocEo4QUhwQmc0SzRKSGhvTnVzSXhuSHRRRVBxamozRlBJQkdpSnBzZzkwUmg3X1Exd0t6TDdDS3hySVBXekhWTHQwWmwxQjItT3dBRjNMSDU0NW5jbWgtUHRlakd4b0wwOWpMUXZXeW9SNnl0MTlYb0g3VHBzWlRGRC10V25BbTI4SWRyVnhySWgyQVRCSmFKTlc3cnNsdDdUUWhfUVFHcU5Qejl5OE1fUW8?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Tue, 23 Dec 2025 08:00:00 GMT"
+        },
+        {
+          "title": "Annual Results 2025: ZF Improves Operating Performance and Reduces Debt - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nbUxlclVEZ1JhMk5Zcm1qWFB3NnBJVDhaV3d1R0Mwd2c0VGx5YkNza213NE02bGlwV0I1VnJxRUowT1pOTkktdlR2eWpRbjZpOGZXYXhrNVYzSjlqclN6dU1mTU1wa0htZ0E?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ZF exceeds 2025 profit margin forecast but warns of up to $2 billion e-mobility charge - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUdsVzJCRXpSN2pzMkRoT1hjZ3BnRjdxTEhRT2lBSldXVUxkaDhmcXBzOVRSakVSaldkOXRuQ3FKUzZFQ0pjbi1lcW1ybnR0NWtVSmE1U3VBQ0s2NWI0dTBCQ25BUUZVYUd5QkhTZU54M3U2QVg3ZmNKQkV3VGZ2UWtJV2lqcnhvSFlCZnhrUVZJcjU3bnJHblQ1V1hLbjJv?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Fri, 23 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Automated Driving: ZF and SiliconAuto Reveal New I/O Interface Chip with Companion Microcontroller - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRmp5TDFMREt2UE4tZGtIdXlwWGJkSGpjWFlTZGkyUk9SMWEzSUkzWlR0TjVteWtVY2NEZkU1OF80V0xRZHpTZGZvVDRGVThfakt4UjgxM2VqNnZCa0Ffc00ydElqaTNhX2c?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 11 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ZF Strikes Landmark Deal with Employee Representatives to Reshape Division E for an Enduring Future - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aOXhqX25KV0llWkxHZWtrZFppcmlRSzVYRWhPSDQ4UGFQRmVsdmxtMDU1WkJUN19QLV9FR2FSdVp0QmlYVkZPdFM0N0NmdjdNR1FoZjdic0hERTNkZ000RnRIVl9mc18w?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Wed, 01 Oct 2025 07:00:00 GMT"
+        },
+        {
+          "title": "ZF and BMW Sign Agreement for Future-Oriented Drive Technologies - ZF Press Center",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibnRDSVpTZ0M4ek1kendFZmU3RDIxXzNWU0pWOHh5bGoxU0V2eDdqWnFtRnFPNkdoWEVIZHZzdjZMSnhqT0xydzBjU3VPc2N4WHBTdTVMNHkwMjFxVXJncllsOG5IRDdq?oc=5",
+          "source": "news.google.com",
+          "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT"
+        }
+      ]
+    },
+    "handbook_fit": {
+      "Warranty Analytics": 0.06643122434616089,
+      "Supply-Chain Risk Prediction": -0.010985677130520344,
+      "Dealer & Field Service Intelligence": 0.09907115995883942
+    },
+    "mapping": {
+      "service": "Dealer & Field Service Intelligence",
+      "justification": "Default recommendation.",
+      "evidence": []
+    },
+    "retrieved_passages": [
+      {
+        "id": 0,
+        "score": 0.05942513421177864,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      },
+      {
+        "id": -1,
+        "score": -3.4028234663852886e+38,
+        "text": "Executive Summary:\nOur analytics consultancy addresses complex automotive industry challenges with three integrated, data-driven solutions tailored specifically for Indian automakers, their Tier-1 suppliers, and dealer networks. These solutions are: Warranty Analytics, Supply-Chain Risk Prediction, and Dealer & Field Service Intelligence.\n\n## Warranty Analytics\n**Detect quality issues early, reduce claim costs, and prevent recalls.**\nThis solution leverages advanced machine learning to analyze warranty claims data, manufacturing defects, and field reports. It identifies emerging failure patterns, predicts potential recalls, and pinpoints root causes, allowing automakers to take proactive measures. Key features include predictive maintenance insights, anomaly detection in claim data, and supplier quality performance monitoring. By minimizing warranty expenditure and enhancing customer trust, this solution directly impacts profitability and brand reputation.\n\n## Supply-Chain Risk Prediction\n**Monitor supplier health and logistics in real-time, and act before disruptions occur.**\nOur Supply-Chain Risk Prediction service provides a comprehensive view of the automotive supply chain. It integrates data from logistics providers, geopolitical news feeds, financial health of suppliers, and inventory levels to forecast potential disruptions. Features include early warning systems for component shortages, supplier financial stability assessments, and optimization recommendations for inventory holding. This solution ensures continuity of production, reduces operational risks, and improves supply chain resilience.\n\n## Dealer & Field Service Intelligence\n**Turn dealer data into actionable insights that boost sales performance and customer satisfaction.**\nThis solution focuses on optimizing the performance of dealer networks and field service operations. It analyzes sales data, service center performance metrics, customer feedback, and regional market trends. Key benefits include identifying underperforming dealerships, optimizing service schedules, personalizing customer outreach, and forecasting demand for spare parts. By empowering dealers with data-driven strategies, automakers can drive higher sales conversion rates and elevate post-sales customer experience.",
+        "title": "Executive Summary:",
+        "source": "handbook"
+      }
+    ],
+    "score_breakdown": {
+      "signal_strength": 0.0,
+      "recency": 0.979,
+      "handbook_fit": 0.099,
+      "evidence_quality": 0.0,
+      "weights": {
+        "signal": 0.35,
+        "recency": 0.25,
+        "handbook_fit": 0.25,
+        "evidence": 0.15
+      },
+      "final_score": 26.94
+    }
+  }
+]
