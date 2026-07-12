@@ -2,7 +2,7 @@
 
 **Website:** [https://www.zf.com/global/en/home/index.html](https://www.zf.com/global/en/home/index.html)
 
-**Overall Score:** 26.94
+**Overall Score:** 36.81
 
 ## Overview
 
@@ -24,9 +24,9 @@
 
 ## Signals & Scores Breakdown
 
-**Keyword Counts:** {'warranty': 0, 'supply_chain': 0, 'dealer': 0}
+**Keyword Counts:** {'warranty': 0, 'supply_chain': 1, 'dealer': 0}
 
-**Latest News Recency:** 1.9 days ago (if available)
+**Latest News Recency:** 5.4 days ago (if available)
 
 **Handbook Fit Scores:** {
   "Warranty Analytics": 0.06643122434616089,
@@ -35,37 +35,37 @@
 }
 
 **Score Breakdown:** {
-  "signal_strength": 0.0,
-  "recency": 0.979,
+  "signal_strength": 0.333,
+  "recency": 0.942,
   "handbook_fit": 0.099,
   "evidence_quality": 0.0,
   "weights": {
-    "signal": 0.35,
-    "recency": 0.25,
-    "handbook_fit": 0.25,
-    "evidence": 0.15
+    "signal": 0.45,
+    "recency": 0.2,
+    "handbook_fit": 0.3,
+    "evidence": 0.1
   },
-  "final_score": 26.94
+  "final_score": 36.81
 }
 
 
 
 ## Recent News
 
+- [ZF is driving the future of electric, connected and safer mobility - Sustainable Bus](https://news.google.com/rss/articles/CBMingFBVV95cUxPblVQZXJWRWlhckg5QVBvMTk5MFkzWV9Ma3VNb2ZHSjQydHRSM1R1cnRFcEdEcXZRdFJMaHd6WlFRbXhGQ01SUE1kQ0ZuaV81U2EzQ0hQUjJzaWR3ejYzSHVGWklIWlVVRXhxLU1kNGhIN2NMMjFwR0tEajIxZDJvc0pzUXBFbXgydmVxNjg5TUNsQ2tXNGNsVTljM3cyQQ?oc=5 ) (Published: Tue, 07 Jul 2026 13:29:25 IST, Source: )
+
 - [ZF Lifts Q1 2026 Margin as Operational Performance Strengthens - ZF Press Center](https://news.google.com/rss/articles/CBMiakFVX3lxTE9Mc2lMT2c1aThlY1U5OENpVEY4SkZjMVh4QW9QRjBrT3dGNkdld3lmMU5hTFB5ZE0wNkIwNWxhbTdVOUUwc1BXOWhSQmprTjBUQk16eUhiclgyTnpkN3EybXRVZkFmd09aTVE?oc=5 ) (Published: Wed, 06 May 2026 12:30:00 IST, Source: )
 
-- [Zhongjie Automotive (301560.SZ): Signed a long-term strategic cooperation agreement with ZF Friedrichshafen AG - 富途牛牛](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2xnbURZOF9SaThvRUliZkhIam1wdnBXb2c2NGgtWWduUFFFcGxTQlRrdnlUNVhDQnotc2gzdXJiZkVpT1pvS2puVmptaVh4NlFMNnJTT2F0VU9nRTdtZ0JDLV9nR1hfaW1GcUNaZWFHbEZyaTAwWG5zNHVJblh6bzBLQmNUdDVEUFJJM3JSNFJIZkRkTERIOE9udFlsYWZYOHBMaUJZMHc0dVFEaGdiSA?oc=5 ) (Published: Tue, 07 Jul 2026 19:55:00 IST, Source: )
+- [The ZF 8HP Transmission Anchors A Generation of Vehicles From All Walks Of Life - CarBuzz](https://news.google.com/rss/articles/CBMibEFVX3lxTE1JUng3U1RDeTE4azJSV1cxcWRtbFk0RFNMb2pYaHRUOElMT2VidzFBOXV3ZVZPUmV6NVJueF8wVExlWUE0UTkwQkRpRy10SGVBd2IzSkR6SmJ5WkNJUVRVYzFHODJhdW9GRXpkLQ?oc=5 ) (Published: Thu, 25 Jun 2026 12:30:00 IST, Source: )
 
-- [Samsung Electronics unit Harman to acquire ZF Group's ADAS business for $1.8 billion - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1RNOGtocEo4QUhwQmc0SzRKSGhvTnVzSXhuSHRRRVBxamozRlBJQkdpSnBzZzkwUmg3X1Exd0t6TDdDS3hySVBXekhWTHQwWmwxQjItT3dBRjNMSDU0NW5jbWgtUHRlakd4b0wwOWpMUXZXeW9SNnl0MTlYb0g3VHBzWlRGRC10V25BbTI4SWRyVnhySWgyQVRCSmFKTlc3cnNsdDdUUWhfUVFHcU5Qejl5OE1fUW8?oc=5 ) (Published: Tue, 23 Dec 2025 13:30:00 IST, Source: )
+- [Prof. Dr. Peter Laier, ZF Friedrichshafen Joni Lamb (PaExI4YMCp) - Fathom Journal](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KUmF1b0JqdHRuZmpORUlMdnV2TU1vUkFHSTZCMVlRNW5KZjNUNHJxQmRLVkNLMVhiZXUwb25LdkF3bUwwOVZEX1hKd3l5OHNaQXBuYXRHcXZzd201U2Mxak5LekU?oc=5 ) (Published: Fri, 26 Jun 2026 23:29:00 IST, Source: )
 
-- [Annual Results 2025: ZF Improves Operating Performance and Reduces Debt - ZF Press Center](https://news.google.com/rss/articles/CBMiakFVX3lxTE1nbUxlclVEZ1JhMk5Zcm1qWFB3NnBJVDhaV3d1R0Mwd2c0VGx5YkNza213NE02bGlwV0I1VnJxRUowT1pOTkktdlR2eWpRbjZpOGZXYXhrNVYzSjlqclN6dU1mTU1wa0htZ0E?oc=5 ) (Published: Thu, 19 Mar 2026 12:30:00 IST, Source: )
+- [XCMG, ZF form ag equipment joint venture - Equipment Finance News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXhjb3VNQ3lEbkl0QUhIZm82Ui1tLXJNNHFGQVlKbnRsVy0tOGRWUDJQcmlmRW13QjVyTW9PajdtVHpYVHNxVUlSNnZ2SVZ2Z09jM2xDQmpGNk5aOUliVzVjM3h4SW1wUHA2cjZGaWhubWRneWJWRFRwSzVsT2ZoM1ZNV0JRUWt3MV9GUmNqUm15Z0lI?oc=5 ) (Published: Fri, 05 Jun 2026 12:30:00 IST, Source: )
 
-- [ZF exceeds 2025 profit margin forecast but warns of up to $2 billion e-mobility charge - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUdsVzJCRXpSN2pzMkRoT1hjZ3BnRjdxTEhRT2lBSldXVUxkaDhmcXBzOVRSakVSaldkOXRuQ3FKUzZFQ0pjbi1lcW1ybnR0NWtVSmE1U3VBQ0s2NWI0dTBCQ25BUUZVYUd5QkhTZU54M3U2QVg3ZmNKQkV3VGZ2UWtJV2lqcnhvSFlCZnhrUVZJcjU3bnJHblQ1V1hLbjJv?oc=5 ) (Published: Fri, 23 Jan 2026 13:30:00 IST, Source: )
+- [XCMG Group and ZF Establish Agricultural Machinery Joint Venture - PR Newswire](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaURRMVdObFh2UklqN1ZqUTQ5ODVDZllLaGVVbzFuUUEyb0U4YUdjWTJnUGJJSDJ6OHFhdTZya3ltdE44T1pJbk1YRUxVaXBpZURmVXZ5VkhaTXRRQzFXVTFrTFZjTElHX1BESHBKdWpiZ0ZpSi1YTFhZNEtqczI5V2c1cE9NT0g1M1dXY1BpeTVRMVZiOW9lczhZalVOcjR5VDRaaFQwVXg5QS1sQ1lhYXpMTmxvQ1BveTBXbg?oc=5 ) (Published: Fri, 05 Jun 2026 12:30:00 IST, Source: )
 
-- [Automated Driving: ZF and SiliconAuto Reveal New I/O Interface Chip with Companion Microcontroller - ZF Press Center](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRmp5TDFMREt2UE4tZGtIdXlwWGJkSGpjWFlTZGkyUk9SMWEzSUkzWlR0TjVteWtVY2NEZkU1OF80V0xRZHpTZGZvVDRGVThfakt4UjgxM2VqNnZCa0Ffc00ydElqaTNhX2c?oc=5 ) (Published: Wed, 11 Mar 2026 12:30:00 IST, Source: )
+- [ZF signals more divestments as it targets lower debt - Just Auto](https://news.google.com/rss/articles/CBMia0FVX3lxTE1KWmg3M21tZ3VyekhER3MxQjJFakRqS1BSWXNaOEl5S3dWbGpXNGlXQ1AtdWM5LVBJYU9zcGR3WGxMWVlrLWtKY0E1NjRSZWVlMW02WkU5aGhCWXdjNllFbEI3RlhpLWJ4eXJz?oc=5 ) (Published: Mon, 23 Mar 2026 12:30:00 IST, Source: )
 
-- [ZF Strikes Landmark Deal with Employee Representatives to Reshape Division E for an Enduring Future - ZF Press Center](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aOXhqX25KV0llWkxHZWtrZFppcmlRSzVYRWhPSDQ4UGFQRmVsdmxtMDU1WkJUN19QLV9FR2FSdVp0QmlYVkZPdFM0N0NmdjdNR1FoZjdic0hERTNkZ000RnRIVl9mc18w?oc=5 ) (Published: Wed, 01 Oct 2025 12:30:00 IST, Source: )
-
-- [ZF and BMW Sign Agreement for Future-Oriented Drive Technologies - ZF Press Center](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibnRDSVpTZ0M4ek1kendFZmU3RDIxXzNWU0pWOHh5bGoxU0V2eDdqWnFtRnFPNkdoWEVIZHZzdjZMSnhqT0xydzBjU3VPc2N4WHBTdTVMNHkwMjFxVXJncllsOG5IRDdq?oc=5 ) (Published: Fri, 06 Feb 2026 13:30:00 IST, Source: )
+- [ZF Emergency Braking System Wins ETM Safety Award - The BRAKE Report](https://news.google.com/rss/articles/CBMic0FVX3lxTE5sbnVTcHNnWUZPV2ZXcWFuVGJYMTNSeGFoZlNsTm9Ka0tzeU5pSmdBb0tPYVNXX2tVTHRJT045enE4UFV2MnhpZWY4Zm94X2VZSTdPWU02WDlaTTBsRGtfVF92Y1RqeXhFOFJaeU5ySUhpYnM?oc=5 ) (Published: Thu, 11 Jun 2026 12:30:00 IST, Source: )
 
 

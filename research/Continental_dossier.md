@@ -2,7 +2,7 @@
 
 **Website:** [https://www.continental.com/](https://www.continental.com/)
 
-**Overall Score:** 27.23
+**Overall Score:** 22.6
 
 ## Overview
 
@@ -28,7 +28,7 @@ Please find here all episodes of the new season â€œThe Continental Tires Garageâ
 
 **Keyword Counts:** {'warranty': 0, 'supply_chain': 0, 'dealer': 0}
 
-**Latest News Recency:** 0.3 days ago (if available)
+**Latest News Recency:** 0.8 days ago (if available)
 
 **Handbook Fit Scores:** {
   "Warranty Analytics": 0.03501684591174126,
@@ -38,36 +38,36 @@ Please find here all episodes of the new season â€œThe Continental Tires Garageâ
 
 **Score Breakdown:** {
   "signal_strength": 0.0,
-  "recency": 0.997,
+  "recency": 0.991,
   "handbook_fit": 0.093,
   "evidence_quality": 0.0,
   "weights": {
-    "signal": 0.35,
-    "recency": 0.25,
-    "handbook_fit": 0.25,
-    "evidence": 0.15
+    "signal": 0.45,
+    "recency": 0.2,
+    "handbook_fit": 0.3,
+    "evidence": 0.1
   },
-  "final_score": 27.23
+  "final_score": 22.6
 }
 
 
 
 ## Recent News
 
-- [Best Resorts in the Continental U.S. - Travel + Leisure](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmdXOEJLNjVwOWZLcjR5SVJpcVFQaWFSS3J2WEJuVFpaRDFSVm9kSDBGY01VWnhRSGZoSmlVQV8tUUI3NUZFaGhwVlBDU0REMGdLaWRWTnpZdjJrenMzOXUwTl8wQUozcHJJYXRrMllKVGlvb29KRFlhNDE2aU82UEJ0T1ZOektXQVlJ?oc=5 ) (Published: Tue, 07 Jul 2026 15:49:20 IST, Source: )
+- [Dangerous Heat Could Affect Two-Thirds of Continental US - Newser](https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1RkYkhnRFpvTHhxUHhwblRKVVdiVjZaVllvX0k5bTVlMGZhckkxTENQWHhFTTl2dkFBdWY4Ri01anJ6MzFJejFsZ2xzOWtfLXRpaFhkTmpwQjNWQk45QXpkYTRoazhuWl8wdS1CaW9JWmZJYkp5NFB1OFgybElnaDVpbVYxSnByY1pSUnpWMHYxOE13Si1rUlhNR1FBTGw1?oc=5 ) (Published: Sun, 12 Jul 2026 03:30:00 IST, Source: )
 
-- [Hope on the Divide: Hikers tackle 180-mile Continental Divide Trail to raise suicide awareness - KBZK News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNktlT2FSM0xZby1YVC1valJscGRPXzJQQ3dUd1JtY0RGUHVEYmVuamIxcHUzTmJTOVdDckktWHZla3FkZGtRczNTVC1EWlhzMnczZE93ZVZKOGdwMHV6ZW9YSi1zRmlfVDhlX0RPcnBxSmxfOUVUTEZjM3JyMEh0cEsyQ1ZiUFo3bEF0NGpqRjhFckFFMHFjSlNKc3lZZGJ4TGNyUjRaYUpJdUQ1WmRIRXNmUElpaDdNTDgw?oc=5 ) (Published: Wed, 08 Jul 2026 03:37:53 IST, Source: )
+- [Sr. Miriam Duggan Primary School (Uganda) takes gold at African Continental Stage of World Schools Team Championship 2026 - FIDE](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbzBvT0lkZHZ5aWI3UmptSzhVekgtZHJhQ0xIM0VseVUtazFMYVp0S0piU3NJeXFTNUpoYlFsMEtxQ1loRlN0WGRXSFRUN2x4Tzl6bnp1NVlSbHVJYVFlMGFKZ3RxdHNzcmVqVkxOZ3JkUE95WWRPT3pUYWtPeWhLODNSTHhsTEo3dUg5VEJLR09NalZtT3FCRml2a0VjblpsaXB2UU83QWk0eEluM0g2a3N4Y19UZTZWclJQUHo1QzJTRmV4N2hWYlZaOWl5N2t5aEJ6REh2SQ?oc=5 ) (Published: Fri, 10 Jul 2026 21:01:50 IST, Source: )
 
-- [After years of black dust complaints, Oklahoma cites Continental Carbon for 81 alleged violations - The Frontier](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXRMcjFWMVhIek9RbWpiRlBwWkdEcmpsb0pJbFdkeVpNMWxqVjJYVUVJeVBZR2FLakZIV3RESzRPWGxiazFpMjFxVFRaOFBmR2lsY1B4U1pQRnBzU1BBMTRCQVRhMnRnamNrZmkxbXNTN1BmeVpQTC0wekRmQm01d3NIdkwtbEZGeDNuUHc4c1hiV1h0b0Jmc1pFb3dIREdIYUE3VTJBd3RkenpkaVFESzNIU1hMeUl2N0djYk5pRDFPRlNLSlpocWJndlVVNGc?oc=5 ) (Published: Wed, 08 Jul 2026 20:47:43 IST, Source: )
-
-- [Continental Agrees to Sell ContiTech Business to Lone Star Funds - WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTBuYjZXU3VLek5iNjJHT2p1N09EaVhKX2EteDAzUjE1bkZvU3ZId1ZNSGZZeFl1RGk3LURocjlrRFdQemlfeWlvMFlvWHFmc0YxN002ekZFMHFuYXpnZEY2cnAxUHpLTk5FUldOZll2WkZlc1dpeEpYdEwtdDhwdTFKQlNyOHQ0OEk5akJ4NTVuQUhqbWwyWmFrdTRtc3VTUHVBdW5IOGJ6WHFh?oc=5 ) (Published: Mon, 06 Jul 2026 11:34:00 IST, Source: )
-
-- [First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins - FIDE](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlpXVV9JdkFxNlhMZUxyU3Y1VkNjSjJXd0RuV29lRXRIRzctQ08tMlQxZ0w1MDZtSFV0S054QzdyVEVMUE5oUVQ4V3pLelpuc0Vwb1gwLUFWWlctMTZXNGtYRHBVUi1QWjVNTlpVZjBVZ1BRcWJIdnJoSmxNcktYQjVGelJqQjBXZ3VuTFRhMUlvMVNaVnVXMUV1VnFlX2VrSXpHWHd2b1BiMTlRUE4tV18xQTJyOVJTZTQzRlRqaHNsdE90?oc=5 ) (Published: Wed, 08 Jul 2026 02:08:20 IST, Source: )
+- [Pick of the Day: 1973 Lincoln Continental Mark IV - ClassicCars.com Journal](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlBZWlRlWXFCc05yOTdCS3lLU0tFNjhJZXJ6b0lVcFBKa3lETWJzUkZLTHdoeF9nYVJMRlpEbzFlRmpVbVVSbHpuT05NcFlzV0QzSDNBM055ckptRjdRczBLdUdvSU9PY1pBYU5BcXNNbk9yUVN6TFRmTEdiSnhrS25zYmFGUUZmcnFZTjlPM2RBUXhPR05B?oc=5 ) (Published: Thu, 09 Jul 2026 15:17:38 IST, Source: )
 
 - [Against Amnesia: The Venezuelan Earthquake, the Historical Moment and the Continental Question - CounterPunch.org](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0Q4MlNPaGVFTndDWm4yWnNQd3BSSE1KZkJNVkxrODNtZXFOaE1fSzJNNFRlbkMtLU1RS3BXTTlaaG4wYzRBb3JXV19rWGZybjVxcVZUaDBVWXF0NFBjeUltM2d4a2pIM1AxcHVNUjFFSVZmUjJucGxkX3Q0V0R1MVBXZDc0cDVfaWpDUERYMWozQU13UUViTEhNNFloM29yRHowYXdrcTJtdUNqSnlfZlpJazY2WVVfdlowdFZpdHZFcEVFQzd6eHdNbzFWUQ?oc=5 ) (Published: Thu, 09 Jul 2026 11:30:09 IST, Source: )
 
-- [Crews respond to Pulaski County refinery fire - WKYT](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnlMcHlPckc0bHQ3YWFXX2RmZ3JfSDBVM1lwRm1PRFhUcmN0d1lXOWhnMGZMdnE3Um5xa0JvWFlOUkpTb21aanhJNFJ0RVl3VWVkNTdXeHNval9Hal92VEdIMHVuX09jTHVzQ3RRQy0xVTZ6bkFPV2VwM01MVkRIdQ?oc=5 ) (Published: Mon, 06 Jul 2026 22:05:00 IST, Source: )
+- [The Second Continental Congress wrote the Declaration. Is Congress today living up? - NPR](https://news.google.com/rss/articles/CBMic0FVX3lxTE05R0ZTU01kdm9wR0JDdWFMQTlTV1hWMjZNbHRYMXpfSGVUX1RCSGhVaExQclFlZ3hweGZXYWhiNHJvbU9Fd0hqb3FCSk1MaDVoTzJIYTkwamhDMGxBX0NDcElDOGVYYkY3amVaRzBlbEh1aUk?oc=5 ) (Published: Thu, 02 Jul 2026 12:30:00 IST, Source: )
 
-- [Contract awards for four development projects on the Norwegian continental shelf - Equinor](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUldlM3VXTkh3TTFGck9nQTlOM1p0S2ZUY0l0NUR3VURTdUNIemkwVFFxZEowdGtXUGl2OXQ3N0NZR19ENFFaSzNhT0kzX1hSM2RYR3FoWEJxUDROdEdnRTAyazJkT2ZKTUcxT3dGTUZPanRaVS01TDV5Vi1MRzc1WlM4WExyRThYcXVB?oc=5 ) (Published: Tue, 07 Jul 2026 12:14:45 IST, Source: )
+- [Africa CDC and WHO launch joint continental Ebola response plan - World Health Organization (WHO)](https://news.google.com/rss/articles/CBMipwFBVV95cUxORXFFQzlQRW9VbVN1T0w4X0NIQ0wtSnBvOEUzVkpuaExXcWFoY2xfblUwWjktQU5CVW5JcFJQMVlVMUFzV2xpMHpoTTM1LUlCMmlmcW5YWW1kRmZWSjgwU3lGTFE1Q09hSWF0SHQ2MnQtNTFaNkdrY01GTU9xQnYtdWxLTEZEU2NBRkl5d0JLNnpBLVE0blQyaGF3UkpRWHRUUko3ckh6TQ?oc=5 ) (Published: Fri, 05 Jun 2026 12:30:00 IST, Source: )
+
+- [Continental to sell ContiTech unit to Lone Star Funds for $4.6 billion - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdktvMlBtS2JhMDUxczNHYkQxdmV6a0NjRDNNM0o0UGtSRl8xLVdkckdkQVd0Rm1hU3dFSFhyeWRvSWt0Y2l5ZDVGZUJPalhETGxOaE1yWGU2bmJ4d3p1bzFXQ2cyUDlzWjM2dEZ1WGJwSENmcTd1UnBoRXB1R3BQbUxxay1rWUZHdnloaEUtZVdUZmdKUEtBbUl5ekQxdURWeW4yclRwT1Fwd0JLRWpkdkVsSm8?oc=5 ) (Published: Sat, 04 Jul 2026 12:30:00 IST, Source: )
+
+- [Continental Sells ContiTech to Lone Star Funds and Will Become a Pure-play Tire Manufacturer - Continental AG](https://news.google.com/rss/articles/CBMifEFVX3lxTE9RdkpLYnRFSzlqNUR2TFB4eHJhMnNqSzRDMnZxX2FTSndGNy0tNjlaYTNNb0hGNDMtWThBSkNJTVV1UFpMUHhYUkRNXzRSS08yd25Bd0Z1QnlxcmVyY0tRdGdrZWZjNnlFUGZmX3FrQ3UwZlkzeTA0WVB1RDA?oc=5 ) (Published: Sat, 04 Jul 2026 14:43:53 IST, Source: )
 
 

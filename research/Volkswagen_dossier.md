@@ -2,7 +2,7 @@
 
 **Website:** [https://www.vw.com/](https://www.vw.com/)
 
-**Overall Score:** 32.62
+**Overall Score:** 29.06
 
 ## Overview
 
@@ -28,7 +28,7 @@ Of course we’ve got cutting-edge technology, from generative AI-enhanced voice
 
 **Keyword Counts:** {'warranty': 0, 'supply_chain': 0, 'dealer': 0}
 
-**Latest News Recency:** 0.0 days ago (if available)
+**Latest News Recency:** 0.4 days ago (if available)
 
 **Handbook Fit Scores:** {
   "Warranty Analytics": 0.15766829252243042,
@@ -38,36 +38,36 @@ Of course we’ve got cutting-edge technology, from generative AI-enhanced voice
 
 **Score Breakdown:** {
   "signal_strength": 0.0,
-  "recency": 1.0,
+  "recency": 0.996,
   "handbook_fit": 0.305,
   "evidence_quality": 0.0,
   "weights": {
-    "signal": 0.35,
-    "recency": 0.25,
-    "handbook_fit": 0.25,
-    "evidence": 0.15
+    "signal": 0.45,
+    "recency": 0.2,
+    "handbook_fit": 0.3,
+    "evidence": 0.1
   },
-  "final_score": 32.62
+  "final_score": 29.06
 }
 
 
 
 ## Recent News
 
-- [Volkswagen board faces crunch talks over plant closures, job cuts - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxONzBzaFJXdW94QmxuRllSMTJEdmpCTUhmb3F0QzJLSEx4M2U1RWlGLUhPRG52TExjZVQtMmI5SEpPVURtTXlwSTBnajN3UVk2TEtQUVVLMmFueXhSVm5tN3BMMkFUcWt3b1BEY0tqZUNSenRBOVl3bWlMWDNGUVJQQmd5QlZPM2tPM3k3ZldrU0JIZU1ZUjFlNENJbXFxWE5FU0ZoNU9lMGxoTEt5YnJUQ19YTUZxQnFGN0N5WXJR?oc=5 ) (Published: Thu, 09 Jul 2026 10:35:00 IST, Source: )
+- [How Volkswagen’s Troubles Were Made in China - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWdYU2hWZEZjQUtmampCbWItNTNKZXYyOTFidTMzbm5UaktkVDBzenoyLVhJRVNya0lBaUQzTGNITGZzRjlHbGVHYlY0bEhuTTh6TUhNalVmaTFibTF4Zll4LTFUa1VsbE9DekNTNHpiSGdnMDBFY0RPM0RIOWgwTHlFZWhnTnRsUEE1RTRfdFRCUQ?oc=5 ) (Published: Sat, 11 Jul 2026 19:01:00 IST, Source: )
 
-- [Volkswagen put 100 sheep to work under 31,000 solar panels - Electrek](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGZ3UldWVTRjamhmSkZpQ05RU1E5UW9xdW12Z2hsNm9mQmlMcFNWUFkyNjJIZlNwVUZSTTFWMXo2ZjVLQWNKRXNWY3lQcV9LQldVZ3VfbmRpV3ZSeFZZb2VzbUUyMXB5b25zckQ0R0JWWVI3cG5XN1BkVzhENF92Y0RQbEVqNElBSXlIVmxSbGhUbWc?oc=5 ) (Published: Thu, 09 Jul 2026 02:42:00 IST, Source: )
+- [Qatar vetoes defense deal between Israel's Rafael industries and Volkswagen - The Jerusalem Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE9BSlJURThqdUlUal9pX3A5OEt1OWxka2FWTDgyRW1Ja0VhUHhkNEhfYWFLQ2RwMDRPYlY4RVgyZjdDdVNzaGswdzFLcFA2S2w0N2R0ZzFlMEVwUy1zYXdPcTRxT0t5VjNlVExHVEZn?oc=5 ) (Published: Fri, 10 Jul 2026 19:00:05 IST, Source: )
 
-- [Volkswagen Explains Why The New Atlas Looks Different Than China's Teramont - Motor1.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHczSDBrZXhVbWhTNnhONzQtNVo1Z1JyUHBQdUwxQWp5dW5uWmxKU1dTZ1BzdGtGeGszS0RBZ0pVY191Qll2X1V6dUpzckFCMHhuX3N6Y1VoOWRTNXg3bUtQMlRkQWhORGpsRUl1eTZaMklZb1RxSkNGczdMcUhqdHRTVktGN1d3OGg5cThsa04?oc=5 ) (Published: Thu, 09 Jul 2026 18:03:41 IST, Source: )
+- [Volkswagen deliveries suffer biggest drop since 2022 on China slump - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjdBWXBNTThwdmdOV3VXd1F6Q1dmR0I0OUxSV2JxZ3pOQlRoTmFEVUlHU2djQWdONzFIOE9BRVhkcnNzQ2k3SHdpcEFza1NFanIwblZSY184Z3B6Rk8zWThtbTVJTE45RllvUW1fb0FVa2xFRWtqRk0wdmx4TWVSOUZLT3BxdktLaWZQdVNJYldGREd3cnkyX2l2SEFTUTg0MFE?oc=5 ) (Published: Fri, 10 Jul 2026 17:42:43 IST, Source: )
 
-- [Golf GTI EDITION 50 is the fastest front-wheel drive production model on the Nürburgring Nordschleife - Volkswagen Newsroom](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFdxVDh1S1luUVlUN3UtUEhndW9NSGR2YjF5bUR6RkdqUkF0d3k1ZFR6SGFvMWdlRnFuazhScFRLa0ptbWJHa1RPc2pjUTgyazdFWm5nS1hSRHdkMktKaFhFemZEZ0dLalljYWtQQVFLVjVfYW5CeVdMaTI0Q2tmMzNfVDV1aWo1VnRvLUZMang4djZ2d1RNbTlQajk3YUV4UkpyNnl6RmVRU2M4UzhaaDg1Sk1Ta3BzNE10bFJqRUFaSm5MR2FUVnRsQzFBN3pYcndiSDdST2Vlc25VVkZKN0doelhKRzd0NVdYNHpwa0ZHVnc?oc=5 ) (Published: Sun, 05 Jul 2026 12:30:00 IST, Source: )
+- [Waymo Expands Into Germany & Tesla Pumping Up Production While Volkswagen In Crisis - CleanTechnica](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFRpb0VWTkZiWjUxV2VicHlLX29pa0xFSDY2N3d2RjdZV01Rd2h3c25yQlJ6VTNXdU5VWHlLVU0xV25NQTdKZ0RIdGNrODAwTU52MWVWYlQ3OURWamU1ZEMwR29aYnREalBUaW8waGduS2M4QTRTM1g4bnBjRDBnT1NENnliSHU1Qmx6dzFuamNxR3FXcEwtWjhvU1gzQkZtR05BUDRmWE5lVGcyd0s4RVk0S3JtcEROemZR?oc=5 ) (Published: Sat, 11 Jul 2026 22:08:32 IST, Source: )
 
-- [VW faces protests in Germany over proposed job cuts and factory closures - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxONmtyVWhJTE1qZHh4dUg1eDV5UldveFMwQl9MSTRUaFYwY2xHOXRQNEZpaF85Vk95bUkzYVNrdlM1T0FNelZON01fcEMzQnlJSzJ1RVl1dUV1QVZrSFZwQnl1Y1g0VGdhYnZENzN0SlRYQTNMLU5PZDM4RmVlX0hjcFVuRkNjcm50OHZ1bjBKNG4xd05nTzhqRFpad3BjSmNydERYeWlB?oc=5 ) (Published: Thu, 09 Jul 2026 15:49:00 IST, Source: )
+- [Volkswagen’s EV van makes a surprise comeback in the US as the ID.4 goes on hiatus - Electrek](https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0x5T1h4YTQwd3hnc2RwY2g3VGllQzNPYWptX0tWS0NyREtSUzdmZ0puaFFJR3NRZ0JVTWFES09UbzVCb0pjeUVPVmpadUlFbUh6cGtMcU1hbDFIVHkxNDR3UG9ET2dDa2dWR0dfNHE5WDEwcWlYenVVd0JoWnZad1llSFk3MTg?oc=5 ) (Published: Fri, 10 Jul 2026 22:17:00 IST, Source: )
 
-- [Volkswagen job cuts: Germany's time as a car nation is over - analyst - CNBC](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFpOUzNHTTlzVDRXdWU0M1Q5ODVQWVNlUEZJUTdNcXBLUlRkOThzdzlDelMxZzRtNlNsclNHZWZNMS1oZUxiQ1g4dkFMSENFXy0wRTlUOXMxNDhWTFNNSzFsbks2SHJWcFdObVRvZURRcHFtQTh4TllJV3NUQzVsSlhMZE5lb2hzMTQxS1NBczRackVkcTBxZkZYR3R1VmgxeGFJ?oc=5 ) (Published: Thu, 09 Jul 2026 18:21:06 IST, Source: )
+- [Qatar blocks Volkswagen's Iron Dome deal with Rafael as German plant faces closure - CTech](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02cHJWSWJoS3J5UHdfWnN0d0gyNVl1cHczZUR4U2hIZ3VvZkJOOU04LWwyOHk4Q3ZkbFlickN4ZHE1b0ZNdkVpQUJ2NGV3NkwzbVBPUWlfcUJjWEw3UVhKTzhCV2pkeXZI?oc=5 ) (Published: Sun, 12 Jul 2026 12:58:00 IST, Source: )
 
-- [Volkswagen Is Employing 100 Sheep At A Solar Farm In Poland - Engadget](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlE2SUFUcUdxclBTRmpzeVp0MjVsWi1JTFFzLTd1Qy1hdkNTcm5JMjJIS3o5TUhySzZlZWdZOGdIREU1TTk0QnFOMXpoNU1Nd3VITjhrUk1YajVFaXNmcjk0NERYbmtqYTJuWWtmS0wzdHRUWHFLNmhsZ1dfSDRTT2pobWR1N0drMUQyQi1ROUN2N0pJQU1xNQ?oc=5 ) (Published: Thu, 09 Jul 2026 04:52:18 IST, Source: )
+- [Volkswagen sales plunge as German automaker lays out plan to slash number of brands - Local 3 News](https://news.google.com/rss/articles/CBMigAJBVV95cUxNdVEzUjJsUzd2eUwxV2hDeVJTMUJZdC1pdUFxU1N2cHNBNXQxZUptcE9HekRha2lSb1Q3WTEwYUpJYktYRTVWNGVUZ2w3TmJmYXRacnp5MWJyVkdvV1lfUXJvSlZBUFVySGFQenZpay14RzE2ZjVrWWh0a3BocU5ENlJQelhZcllMb1d5SVZJQVQ2OHhJVWtVejhNMVlDNHpXSndLbzhOLTV6aGhHUGdOcGZMVmNqSzFBLVBPZFZDck5Pa2xUUUtpOEpYTHRtOTJ2MmJTQU1xYkc4MU5HNV9HbE1aam9QWFV1MzEzclZXdmJZVmhZMHFTUVh1TjhucnVQ?oc=5 ) (Published: Fri, 10 Jul 2026 18:19:12 IST, Source: )
 
-- [Volkswagen board faces crunch talks over plant closures, job cuts - Euronext Markets: Real-time Stock Market Data | live](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFJ6cGwzcnZqUlZ5Q241eWNvRHVXWmRvRFZ0YUhvTEU5TUM4TWttZnRsZ2thTU5qb2VhYnZ4R2JtMjJmcTBxQ29zbU90dnRJQXQ2MmVZQTNrSHlkblcyeVZJZHVXWkVRZjQ1ZTM2OW9hV0phbnk4QnE2Z1pMY0ljemI5MzMwMEdyakdlMnc1V2JtVnVTQUJwWDNpUlJISF9ZR0pKZThjY19nWjFO?oc=5 ) (Published: Thu, 09 Jul 2026 17:44:48 IST, Source: )
+- [This Is Why Volkswagen Group Is In Trouble Again - Motor1.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjZCYzh3SWVWU19yZkZlUWk1QjlObFlXVjlqTDVoaDlHdUhiMk5BZHptcmlFZG15a0N2cTVXOTJWMTlzcGpZOGNKWE1BbEJwSVdVWGt0bmhwa3Zhc2Qycm9mTDhWQVlMR21hOUVBQTRXTW9uaFppbWd2d21PUEs1eVlIaw?oc=5 ) (Published: Fri, 10 Jul 2026 20:30:51 IST, Source: )
 
 

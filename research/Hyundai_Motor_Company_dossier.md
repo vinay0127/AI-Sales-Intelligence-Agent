@@ -2,26 +2,26 @@
 
 **Website:** [https://www.hyundai.com/worldwide/en](https://www.hyundai.com/worldwide/en)
 
-**Overall Score:** 28.69
+**Overall Score:** 67.7
 
 ## Overview
 
-Entertainment
+Sports
 
 
-Hyundai â¥ Catch! Teenieping: Reunited Once AgainâChu!
+Next Starts Now: Bringing the Future Forward at FIFA World Cup 2026â¢
 
 
 
 
-Discover Youth Adventure 2026, the second collaboration between Hyundai and Catch! Teenieping, unveiling a new character within an expanded universe.
+Hyundai brings âNext Starts Nowâ to life at FIFA World Cup 2026â¢, where innovation and the next generation are already shaping the future of football.
 
 
 ## Recommended Service
 
-**Service:** Dealer & Field Service Intelligence
+**Service:** Supply-Chain Risk Prediction
 
-**Justification:** Default recommendation.
+**Justification:** Heuristic: supply chain signals found.
 
 
 ### Evidence
@@ -32,48 +32,48 @@ Discover Youth Adventure 2026, the second collaboration between Hyundai and Catc
 
 ## Signals & Scores Breakdown
 
-**Keyword Counts:** {'warranty': 0, 'supply_chain': 0, 'dealer': 0}
+**Keyword Counts:** {'warranty': 0, 'supply_chain': 3, 'dealer': 0}
 
-**Latest News Recency:** 0.2 days ago (if available)
+**Latest News Recency:** 0.3 days ago (if available)
 
 **Handbook Fit Scores:** {
-  "Warranty Analytics": 0.09176743030548096,
-  "Supply-Chain Risk Prediction": -0.03006310947239399,
-  "Dealer & Field Service Intelligence": 0.1492651104927063
+  "Warranty Analytics": 0.03157374635338783,
+  "Supply-Chain Risk Prediction": 0.07260553538799286,
+  "Dealer & Field Service Intelligence": 0.09225589036941528
 }
 
 **Score Breakdown:** {
-  "signal_strength": 0.0,
-  "recency": 0.998,
-  "handbook_fit": 0.149,
+  "signal_strength": 1.0,
+  "recency": 0.997,
+  "handbook_fit": 0.092,
   "evidence_quality": 0.0,
   "weights": {
-    "signal": 0.35,
-    "recency": 0.25,
-    "handbook_fit": 0.25,
-    "evidence": 0.15
+    "signal": 0.45,
+    "recency": 0.2,
+    "handbook_fit": 0.3,
+    "evidence": 0.1
   },
-  "final_score": 28.69
+  "final_score": 67.7
 }
 
 
 
 ## Recent News
 
-- [Hyundai Motor Extends Healthy Seas Partnership with Joint Conservation and Educational Initiatives in Türkiye - hyundai.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9WTExRZEdETUZzbWNrOV92VUdkN0VOVmJ0R2drN3l1MG91azl6T2pZYWRWb2xubjNwOEdjaTFYOFpPcTc3QmlyRnBqTUUxcGE4YXRZc0dfb3lqN3pYSWl5ZnZlRHUtSHpMYklRZDhZa3M?oc=5 ) (Published: Thu, 09 Jul 2026 12:30:00 IST, Source: )
+- [Hyundai Motor, union agree to consider monthly pay system as robots threaten human work - The Korea Economic Daily Global Edition](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SUVNWdEs2SlVBQklkWVgyaF9wTzh2dnZFa0RCNDR0ZDVwU0hvSHhFa1BpVGtTMUF1aHozNVlWWTBjc1Z2cHpLSl9LNmZhcnF3c3dLUjRSd0hYakVZT2hjZmt2NTJhREk1eXdJR1c2WQ?oc=5 ) (Published: Sun, 12 Jul 2026 14:44:00 IST, Source: )
 
-- [Hyundai Motor America Launches 2026 Summer Sales Event, Delivering Affordability Across its Award-Winning Lineup - PR Newswire](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNV2J4SkYwMGxwNEVHUlFuQmhwTFBjU05RbVpOenN0eUJTU2VmdE8xRDVSd0ktOUVCUzlqdzdKM0ZER1NEZ090YlotNUpIZG1Jb2QyZnBDWVpSSDR3OWd3X0FadjkwN09BSW1wcjd6aGd0SnZiSXJRY0QydHVCaDllOGo0Z0NDWjhPcXZ1MWdWRWduM2wtUEdfay1PU0Y5T2ZkMkZ4VnJ6UTUzcjhfRTdJREEyc1BncFNVekpmQlZUWVpHWHpJbEJxeTRpckd0UGtQME1xV250aXJOZW5ma3RaOHpEeHBxbDFJdVhwRC1NRnp4WnYwM1hWMkxaWQ?oc=5 ) (Published: Thu, 09 Jul 2026 00:39:00 IST, Source: )
+- [Hyundai Motor Group Continues Arts and Culture Support With Sumi Jo International Singing Competition - hyundai.com](https://news.google.com/rss/articles/CBMicEFVX3lxTFBXT2RUUlloem1FdWJtTkJaLU1DUnAxNjlSY05nUTZJSGRoQndUYS1CTWs2bzNEQ3d5NGdEblVUWW5UVG1GUV96WDlZSWpKN3J1cTE4WFV3YXRWMndNczFuTkZYMU9xbFpncmJRLU5Vd1g?oc=5 ) (Published: Sun, 12 Jul 2026 05:30:00 IST, Source: )
+
+- [From the Track to Everyday Life: Hyundai N’s New Influence, Proven Through Motorsports - Hyundai Motor Group](https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0xHaFBOZTBpdWEtdUJUOEJ4LXZPbXpxUnh0VHJoSkdtUVFzc3BMeDYtNFhxZ0NrNWU0SkJKRkxGMUJLX0VGaUdvVEZKd09LS0MyQnVfXy0zbUROcWp1Y1FselVVQ3U3all5andEaFhoRVlWMVdiY2dINWk4TVhrOHRR?oc=5 ) (Published: Fri, 10 Jul 2026 07:59:16 IST, Source: )
+
+- [Hyundai Motor America and Chamberlain Group Bring myQ® Connected Garage Technology to Hyundai Vehicles - PR Newswire](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRnZqUGRveFZuQzY1eE1RaURQcUk3WFoyVHhabkxVWHlDV1ZScm8zX1BGZDkwbk5waHFSOUpKYzF4TDMwRW0yb0kwYkpOSjEzUHlfY2tXMnpUZk52MGZTZGoxYXZkSEhyWEluTW5PWTdyRkJLLUc2R0k5dkpRbHpBTnBLY2JCTmtfTWJSekFtZGI1WlpiQ3FXVDJkaEZWd1BoMV9nM1hQeDdfQVVyU3JNQXo5eHF4Tlk3bmFIVWJpOHNlVzd5YmlvLU55RlFlc3VoS2JXX3NYdGVaY0ZZcE45cWNacDI2eVA4am40eDFB?oc=5 ) (Published: Wed, 08 Jul 2026 21:31:00 IST, Source: )
 
 - [Three Hyundai Models Rank Tops in Segment in JD Power 2026 U.S. Initial Quality Study - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUsyeEc0bVZHVXZ5eF93Tldrc3Blcm9aRG1VcVdKMVgyV3NTZnFHQnhaMG9mc3JjQkhMWXk5cTVnSElJU0h3YkFkMHhSN0NEV2I0ZTExY3pzQk1YZ1pFc2VoTU5PanpFQ3FrQW9lbDRlbjNFbzVmYmtwZ01mWGowaEZpV19tYS1kdk5oYVRhbkFrak9DVG95bUk4WQ?oc=5 ) (Published: Thu, 25 Jun 2026 12:30:00 IST, Source: )
 
-- [Hyundai Motor Group Metaplant America powers jobs, technology and growth in Ellabell - WJCL](https://news.google.com/rss/articles/CBMie0FVX3lxTE9ueXVhSWJUZHZ4Z0NBWDVOYWJTaVFOeG5wUWIxRmxWYjIzek5RV1dyeF9mcVd3R0dFcjM0Ty1qSXZwMzF3NWR2MDRhcDNqU3hoZE5Gbm1BbXVZQXpZSmJhbnRYYWRmempvRVlWQWhIZUNNM3FKbm9Cc2ttTQ?oc=5 ) (Published: Wed, 08 Jul 2026 20:54:00 IST, Source: )
+- ["Over 200 Billion Won Will Melt Away in Three Days" ... Hyundai Motor Company to Begin Partial Strike on the 13th Amid Summer Labor Dispute - 매일경제](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RQ0FtUWlFZUxzYXB4OXRTdmRaTGJxOExmYVphXzJFNFBycUlKUjNhT3M5eXJQV05Ld2VWNjlvTVE0UHd0NmdJN3lLbmpQMHJZWVVv?oc=5 ) (Published: Sun, 12 Jul 2026 14:44:37 IST, Source: )
 
-- [Kemp to meet with Hyundai, international leaders in Scotland, Ireland - AOL.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcExaUUl6VFlYVnhTLW01WEQ3aHFXazFmWHpvVW5xN3pRNGxlV2dJMkVpMW56ZWtBM1YzcnhQNEN3emZYdkRCWDBjb3dOTjFZdnVBODVqUmMzaDkybEVsY3ctd0luMTgtVlc3X2N2SEMtcDdHQzVfVE1vaUIxcnZxN2I1TlIwLTljVFVZ?oc=5 ) (Published: Thu, 09 Jul 2026 14:51:12 IST, Source: )
+- [Posco and Hyundai Motor Group Develop High-Silicon Electrical Steel for Electric Motors - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbURWUE1UQ08tUmhteXlBRElaU3JSczEtblZNZThlRlBYZnVDNkVhcWF1QUdvZnAxaS1UdDN6anc4Yy1HaHAxQ0J5MjV5eDZfZnpWSmdIN3lGTE5hRDBXMkJGU3ZvTzhLVUgyWGEyVnp1T1Fib2lSRjZiWldScVJlMkxyQ1BMLUljX2tITER4Q0NSSURiUVo5bHlqM1dYMi1zODF6M2hOVEtvZWo5bE1SSmwxV0RrU3Nyek1SeE8tMEM?oc=5 ) (Published: Sun, 12 Jul 2026 15:21:00 IST, Source: )
 
-- [Hyundai x BBC | The Training Ground (30s) - Hyundai Motor Group](https://news.google.com/rss/articles/CBMihgFBVV95cUxQb0V0RjNoa3BGa3lvdEVDaGFVa3dSU0Q5bEZPeGc1TUwyOFFKbmlwdnM5cEdULVI4M1RRWDVEbzZtbVFYVzJlZldWeldRcVQ5ZzR1bWlIdllqWHU3a2ZDUk40UnQ1Rk5ubVFYQTNWaHBhLUZ5RHoyZGZDMjJEZS1lU0tsUzJsdw?oc=5 ) (Published: Wed, 08 Jul 2026 08:00:08 IST, Source: )
-
-- [Hyundai Card completes its first real-world stablecoin pilot with Avalanche, Tether - The Block](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWZVRGxTYW4tLVdKR0dqUU1lLVBMUEt3ZjhXMTNoQXhqVkpoMVNFeEduYTR0TDF2N056R091UnFIdkxkdUw1UGgxckZyWThvZ0FmSEJNV1VNUndTTzdDN01CQ2Y4Y2hfVC1SNUo2ODY0T2VjTTREYjV3RnlvUVhSTw?oc=5 ) (Published: Thu, 09 Jul 2026 12:16:10 IST, Source: )
-
-- [Hyundai Card tests stablecoin transfer for Hyundai Motor units - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qdzQ3ZG9xRGU1cDRtbW9HSi1xQzVSLWpPd3d5NXRjN0ZmNkVCeGN2eG5nX1VnT19YYmFocU5zTHdIcUNfRHR1NzkwQTdTT2I5dHl6aDktQQ?oc=5 ) (Published: Thu, 09 Jul 2026 11:02:31 IST, Source: )
+- [Hyundai introduces new feature for 2024-2026 select models - repairerdrivennews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkpqZVh3Nk9qdGpVV2dGX3BKdTFqSEtuem01dWw3ckdZTHNscTVFNjNvMkZTekRsMGxZSnN3Y08xRFRPY3l4MnVvNzlvUVlRRVZYd21Fd2NfU2J3MGh3WHRyNHMzMGtPWlkyaUFudlBFUTBxSTJvXzRyampWSFNHUnRRUHUtQUhhelJSak93Q3JzMVVjX2VQUC1uNWxfV2NKTk5DbnllOGM?oc=5 ) (Published: Fri, 10 Jul 2026 15:30:44 IST, Source: )
 
 
